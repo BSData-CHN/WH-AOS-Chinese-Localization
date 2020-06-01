@@ -1976,7 +1976,7 @@
       <profiles>
         <profile id="bf01-e56d-f1a3-2920" name="Bone Giant" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">9</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2010,7 +2010,7 @@
             <profile id="e78c-7346-d98f-5b58" name="Gigantic Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2032,7 +2032,7 @@
             <profile id="2afa-e59e-e250-25c9" name="Heavy Footfalls" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2066,7 +2066,7 @@
       <profiles>
         <profile id="a147-de31-8527-4883" name="Carrion" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -2110,7 +2110,7 @@
             <profile id="e774-1118-3e89-b610" name="Rotting Talons and Sharp Beaks" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2132,7 +2132,7 @@
       <profiles>
         <profile id="b036-a2fd-4d01-5036" name="Casket of Souls" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">2&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">2寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2177,7 +2177,7 @@
             <profile id="4837-7df0-707b-fb7e" name="Keeper&apos;s Mortuary Dagger and Glaive" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2199,7 +2199,7 @@
             <profile id="3274-f779-9998-2253" name="Casket Guards&apos; Double-handed Swords" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2226,7 +2226,7 @@
       <profiles>
         <profile id="d43e-4976-4179-e4f5" name="Tomb Queen" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2276,7 +2276,7 @@
             <profile id="59d4-e99e-1bf2-2f1b" name="Venom Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">2+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2287,7 +2287,7 @@
             <profile id="4955-2ef3-9bb5-4fb6" name="Venom Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">2+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2313,7 +2313,7 @@
       <profiles>
         <profile id="d072-1dd0-5251-2e9d" name="Warsphinx" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">12</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2384,7 +2384,7 @@
             <profile id="d11d-f9f1-debd-b380" name="Stone Claws and Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2406,7 +2406,7 @@
             <profile id="70a1-c7bf-8b77-3bf8" name="Fiery Roar" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -2428,7 +2428,7 @@
             <profile id="b457-f160-cb3b-1ddf" name="Tomb Guards&apos; Spears" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2454,7 +2454,7 @@
                 <profile id="09b4-a9eb-e033-7984" name="Bladed Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2472,7 +2472,7 @@
                 <profile id="64d9-4e2e-5ba9-a05b" name="Venom Spike Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2503,7 +2503,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -2561,7 +2561,7 @@
             <profile id="ee2e-09fa-6415-6fb8" name="Mortuary Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2600,7 +2600,7 @@
                     <profile id="e748-eb52-1b03-2a09" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -2682,7 +2682,7 @@
             <profile id="1677-b157-7498-ee84" name="Knight&apos;s Heavy Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2704,7 +2704,7 @@
             <profile id="31ac-7e3d-0e92-08e1" name="Necroserpent&apos;s Poisoned Fangs" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2765,35 +2765,35 @@
         </profile>
         <profile id="9621-f965-df5b-fbea" name="00-02" hidden="false" typeId="86c7-6360-3697-a07b" typeName="Necrosphinx Wounds Suffered">
           <characteristics>
-            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">12&quot;</characteristic>
+            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">12寸</characteristic>
             <characteristic name="Scything Blades" typeId="632e-f76b-1da5-5d34">2+</characteristic>
             <characteristic name="Stone Claws" typeId="e5f4-9636-26a4-c7df">4</characteristic>
           </characteristics>
         </profile>
         <profile id="0417-41b1-5300-a2f0" name="03-04" hidden="false" typeId="86c7-6360-3697-a07b" typeName="Necrosphinx Wounds Suffered">
           <characteristics>
-            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">10&quot;</characteristic>
+            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">10寸</characteristic>
             <characteristic name="Scything Blades" typeId="632e-f76b-1da5-5d34">3+</characteristic>
             <characteristic name="Stone Claws" typeId="e5f4-9636-26a4-c7df">4</characteristic>
           </characteristics>
         </profile>
         <profile id="8d5c-2310-f504-21a1" name="05-07" hidden="false" typeId="86c7-6360-3697-a07b" typeName="Necrosphinx Wounds Suffered">
           <characteristics>
-            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">8&quot;</characteristic>
+            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">8寸</characteristic>
             <characteristic name="Scything Blades" typeId="632e-f76b-1da5-5d34">3+</characteristic>
             <characteristic name="Stone Claws" typeId="e5f4-9636-26a4-c7df">3</characteristic>
           </characteristics>
         </profile>
         <profile id="3f54-861c-a1ce-5842" name="08-09" hidden="false" typeId="86c7-6360-3697-a07b" typeName="Necrosphinx Wounds Suffered">
           <characteristics>
-            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">6&quot;</characteristic>
+            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">6寸</characteristic>
             <characteristic name="Scything Blades" typeId="632e-f76b-1da5-5d34">4+</characteristic>
             <characteristic name="Stone Claws" typeId="e5f4-9636-26a4-c7df">3</characteristic>
           </characteristics>
         </profile>
         <profile id="ab43-d080-2696-5f5e" name="10-11" hidden="false" typeId="86c7-6360-3697-a07b" typeName="Necrosphinx Wounds Suffered">
           <characteristics>
-            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">4&quot;</characteristic>
+            <characteristic name="Move" typeId="63c5-e8b2-3185-346f">4寸</characteristic>
             <characteristic name="Scything Blades" typeId="632e-f76b-1da5-5d34">4+</characteristic>
             <characteristic name="Stone Claws" typeId="e5f4-9636-26a4-c7df">2</characteristic>
           </characteristics>
@@ -2834,7 +2834,7 @@
             <profile id="43be-f794-87c9-74b7" name="Gigantic Scything Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -2856,7 +2856,7 @@
             <profile id="67d3-d053-d903-5861" name="Stone Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2882,7 +2882,7 @@
                 <profile id="135b-a48f-e448-658f" name="Bladed Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2900,7 +2900,7 @@
                 <profile id="12b0-9fbd-c434-b49d" name="Venom Spike Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2929,7 +2929,7 @@
         </profile>
         <profile id="884b-95b9-e48c-dbcb" name="Necrotect" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2954,7 +2954,7 @@
             <profile id="807d-65b8-cd72-9db4" name="Overseer&apos;s Whip" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2976,7 +2976,7 @@
             <profile id="defe-567d-f4e8-1a6d" name="Dagger of Ages" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3003,7 +3003,7 @@
       <profiles>
         <profile id="d6ad-294f-f259-24c2" name="Scarab Prince" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3045,7 +3045,7 @@
             <profile id="16c5-ebe6-0b3b-68e8" name="Tide of Scuttling Scarabs" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3067,7 +3067,7 @@
             <profile id="069c-43e9-ccb2-1ce1" name="Cursed Dagger" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3094,7 +3094,7 @@
       <profiles>
         <profile id="6328-7931-2ea3-fa5a" name="Royal Warsphinx" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">12</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -3175,7 +3175,7 @@
             <profile id="d798-b880-2c7e-b332" name="Stone Claws and Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3197,7 +3197,7 @@
             <profile id="76dc-13b9-938c-08ea" name="Tomb King&apos;s Glaive of Kings" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3219,7 +3219,7 @@
             <profile id="0d4b-0e4c-a615-b123" name="Fiery Roar" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3245,7 +3245,7 @@
                 <profile id="02aa-faf6-1829-aa2d" name="Bladed Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3263,7 +3263,7 @@
                 <profile id="4df9-cbdf-6aac-c0ef" name="Venom Spike Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3333,7 +3333,7 @@
           <profiles>
             <profile id="5440-3e52-c056-9598" name="Screaming Skull Catapult Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3357,7 +3357,7 @@
                 <profile id="941d-ca44-6d62-d47a" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3384,28 +3384,28 @@
             <profile id="8ad0-0ef4-88bc-4840" name="-" hidden="false" typeId="2d7b-0280-473b-9c00" typeName="Screaming Skull Crew Table">
               <characteristics>
                 <characteristic name="Crew within 1&quot;" typeId="b8b6-7486-00a9-ab3f">3 models</characteristic>
-                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">4&quot;</characteristic>
+                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">4寸</characteristic>
                 <characteristic name="Screaming Skulls" typeId="146f-6f2e-67ab-d1a3">4</characteristic>
               </characteristics>
             </profile>
             <profile id="a641-bdb7-d0a5-af4d" name="1" hidden="false" typeId="2d7b-0280-473b-9c00" typeName="Screaming Skull Crew Table">
               <characteristics>
                 <characteristic name="Crew within 1&quot;" typeId="b8b6-7486-00a9-ab3f">2 models</characteristic>
-                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">3&quot;</characteristic>
+                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">3寸</characteristic>
                 <characteristic name="Screaming Skulls" typeId="146f-6f2e-67ab-d1a3">3</characteristic>
               </characteristics>
             </profile>
             <profile id="521e-6234-06a7-8d23" name="2" hidden="false" typeId="2d7b-0280-473b-9c00" typeName="Screaming Skull Crew Table">
               <characteristics>
                 <characteristic name="Crew within 1&quot;" typeId="b8b6-7486-00a9-ab3f">1 models</characteristic>
-                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">2&quot;</characteristic>
+                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">2寸</characteristic>
                 <characteristic name="Screaming Skulls" typeId="146f-6f2e-67ab-d1a3">2</characteristic>
               </characteristics>
             </profile>
             <profile id="6b04-1232-407d-5849" name="3" hidden="false" typeId="2d7b-0280-473b-9c00" typeName="Screaming Skull Crew Table">
               <characteristics>
                 <characteristic name="Crew within 1&quot;" typeId="b8b6-7486-00a9-ab3f">0 models</characteristic>
-                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">0&quot;</characteristic>
+                <characteristic name="Move" typeId="ca83-f7cb-271c-e91e">0寸</characteristic>
                 <characteristic name="Screaming Skulls" typeId="146f-6f2e-67ab-d1a3">0</characteristic>
               </characteristics>
             </profile>
@@ -3423,7 +3423,7 @@
             <profile id="376a-afc8-ed74-013e" name="Screaming Skulls " hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6-36&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6-36寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3491,7 +3491,7 @@
             <profile id="df97-4a6d-7c73-d7cd" name="Transmogrifying Gaze" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3518,7 +3518,7 @@
             <profile id="cb57-5bf0-9a05-9ccb" name="Ornate Stave" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3540,7 +3540,7 @@
       <profiles>
         <profile id="3a18-d227-69e8-aaa3" name="Tomb King on Exalted Chariot" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -3595,7 +3595,7 @@
             <profile id="4271-004e-0636-3f6e" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">8</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3617,7 +3617,7 @@
             <profile id="320e-afca-6aa9-b419" name="Blessed Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3656,7 +3656,7 @@
       <profiles>
         <profile id="217e-4706-c4c5-ee02" name="Skeleton Archers" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3709,7 +3709,7 @@
             <profile id="e285-7710-c83b-cbca" name="Ancient Bow" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">20&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">20寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3731,7 +3731,7 @@
             <profile id="3633-430f-efe5-812d" name="Arrow" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3765,7 +3765,7 @@
       <profiles>
         <profile id="db50-9579-8625-a1d6" name="Skeleton Chariots" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3818,7 +3818,7 @@
             <profile id="adc4-7b3e-45b5-89be" name="ANCIENT BOWS" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3840,7 +3840,7 @@
             <profile id="51e4-954b-00b1-af53" name="Charioteer&apos;s Spears" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3862,7 +3862,7 @@
             <profile id="9c69-6d6c-9b73-98c5" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3896,7 +3896,7 @@
       <profiles>
         <profile id="58c8-299d-5ff9-7840" name="Skeleton Horse Archers" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3949,7 +3949,7 @@
             <profile id="8d6b-704b-4c40-aa0d" name="ANCIENT BOW" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">20&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">20寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3971,7 +3971,7 @@
             <profile id="fcd1-f466-6e8b-b9f8" name="Arrow" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3993,7 +3993,7 @@
             <profile id="cca2-6805-7ae0-0988" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4027,7 +4027,7 @@
       <profiles>
         <profile id="b8b0-5442-0135-0680" name="Skeleton Horsemen" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4087,7 +4087,7 @@
             <profile id="5708-45a6-f107-b00a" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4109,7 +4109,7 @@
             <profile id="3cac-f407-6108-9f65" name="Bronze-tipped Cavalry Spears" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4195,7 +4195,7 @@
                 <profile id="a1e6-8d6a-783a-a429" name="Bronze Halberd" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4213,7 +4213,7 @@
                 <profile id="296e-c533-af4c-a1ca" name="Tomb Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4244,7 +4244,7 @@
             </modifier>
           </modifiers>
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4291,7 +4291,7 @@
             <profile id="e87f-4813-1d81-2ef4" name="Ancient Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4330,7 +4330,7 @@
                     <profile id="5915-7d34-7dcd-aa9a" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4369,7 +4369,7 @@
       <profiles>
         <profile id="a14f-23c5-86ee-89a0" name="Tomb King" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4405,7 +4405,7 @@
                 <profile id="32ed-0c23-9a1d-a592" name="Monarch&apos;s Great Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4423,7 +4423,7 @@
                 <profile id="d84f-0ef7-8261-20a3" name="Dynastic Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4457,7 +4457,7 @@
       <profiles>
         <profile id="4a96-0fb6-5afe-242c" name="Tomb King in Royal Chariot" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -4496,7 +4496,7 @@
             <profile id="1b2a-375b-2001-e825" name="Steed&apos;s Thundering Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4518,7 +4518,7 @@
             <profile id="4d90-9980-ceff-396a" name="Dynastic Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4557,7 +4557,7 @@
       <profiles>
         <profile id="7a80-f55b-3ab9-eb72" name="Tomb Scorpions" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4590,7 +4590,7 @@
             <profile id="2d41-7237-36ce-2c6b" name="Tail Stinger" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4612,7 +4612,7 @@
             <profile id="8152-6582-5320-130c" name="Powerful Pincers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4655,7 +4655,7 @@
       <profiles>
         <profile id="7842-6a06-b2d9-53d1" name="Tomb Swarm" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">-</characteristic>
@@ -4696,7 +4696,7 @@
             <profile id="4b48-a890-4e22-552c" name="Bites and Stingers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4730,7 +4730,7 @@
       <profiles>
         <profile id="0037-48b4-734c-cd4b" name="Ushabti" publicationId="f04f-431a-pubN89429" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4776,7 +4776,7 @@
                 <profile id="0205-1267-6da0-cd84" name="Ritual Blade-stave" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4794,7 +4794,7 @@
                 <profile id="a520-8419-86cb-f09f" name="Great Bows" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4805,7 +4805,7 @@
                 <profile id="7671-6ab7-391d-eaa8" name="Stone Fists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4880,7 +4880,7 @@
         </profile>
         <profile id="7e38-7a75-e8a2-eff8" name="Skeletal Legionnaires" page="" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4921,7 +4921,7 @@
                 <profile id="6b0d-b218-88c9-e2d1" name="Ancient Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4939,7 +4939,7 @@
                 <profile id="70d2-ba2a-147a-2ef3" name="Ancient Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>

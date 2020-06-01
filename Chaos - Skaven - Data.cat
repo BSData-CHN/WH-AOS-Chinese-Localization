@@ -115,7 +115,7 @@
       <profiles>
         <profile id="7cc6-b61d-d3e7-0d71" name="Skritch Spiteclaw" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -151,7 +151,7 @@
             <profile id="e20a-0f2a-026d-fedf" name="Wicked Halberd" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -220,7 +220,7 @@
         </profile>
         <profile id="8199-e89c-90cd-ddad" name="Spiteclaw&apos;s Swarm" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -250,7 +250,7 @@
                 <profile id="6f55-c0ec-368b-97ba" name="Rusty Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -283,7 +283,7 @@
                 <profile id="4167-1339-4ba1-985a" name="Punch Daggers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -316,7 +316,7 @@
                 <profile id="41cc-f2e1-1ff9-e5e3" name="Rusty Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -349,7 +349,7 @@
                 <profile id="eb7f-6e81-42d0-66f7" name="Stabbing Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -376,7 +376,7 @@
       <profiles>
         <profile id="5c69-5aaa-6aa9-7d10" name="Arch-warlock" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -430,7 +430,7 @@
             <profile id="9ce2-288f-a120-f25d" name="Piston Claw" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -452,7 +452,7 @@
             <profile id="e458-c6f4-1250-0a00" name="Stormcage Halberd" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -504,7 +504,7 @@
         </profile>
         <profile id="d563-5281-2319-2c5e" name="Brood Horror" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -529,7 +529,7 @@
             <profile id="9b4f-3a22-d104-5bee" name="Prehensile Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -551,7 +551,7 @@
             <profile id="84d9-25b2-250f-b5d3" name="Fangs and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -585,7 +585,7 @@
       <profiles>
         <profile id="96b2-337e-5aca-094a" name="Clanrats" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -681,7 +681,7 @@
                 <profile id="8755-2e45-480f-71da" name="Rusty Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -699,7 +699,7 @@
                 <profile id="e4fe-4b2d-d725-872a" name="Rusty Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -723,7 +723,7 @@
       <profiles>
         <profile id="83d1-5e5e-f939-9f31" name="Doom-flayer" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -758,7 +758,7 @@
             <profile id="691d-9024-7f5d-ccaf" name="Whirling Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -780,7 +780,7 @@
             <profile id="280f-e050-ac23-29e3" name="Rusty Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -802,7 +802,7 @@
       <profiles>
         <profile id="b943-75c0-d097-5333" name="Doomwheel" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">4D6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4D6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -837,7 +837,7 @@
             <profile id="ca3a-4dd0-db7a-1822" name="Warp Bolts" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">13&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">13寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -864,7 +864,7 @@
             <profile id="0fbc-4f80-2915-8667" name="Grinding Wheel" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -886,7 +886,7 @@
             <profile id="6264-24d6-d7fb-64a7" name="Teeth and Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -942,7 +942,7 @@
       <profiles>
         <profile id="e73a-248f-cedd-3ebe" name="Giant Rats" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">3</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">-</characteristic>
@@ -988,7 +988,7 @@
             <profile id="7d0c-19a1-781d-0fe4" name="Vicious Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -1010,7 +1010,7 @@
       <profiles>
         <profile id="924f-65a5-2887-9ca9" name="Grey Seer" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1048,7 +1048,7 @@
             <profile id="ac24-51e1-8347-da2f" name="Warpstone Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1139,7 +1139,7 @@
         </profile>
         <profile id="12db-4dcd-aae8-7b78" name="Gutter Runners" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">7&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">7寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1185,7 +1185,7 @@
             <profile id="6712-821a-193f-7528" name="Eshin Throwing Stars" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -1207,7 +1207,7 @@
             <profile id="f9c5-3047-42d7-b990" name="Punch Dagger and Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1229,7 +1229,7 @@
       <profiles>
         <profile id="9bc6-3169-abc5-0bb6" name="Hell Pit Abomination" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">12</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1330,7 +1330,7 @@
             <profile id="fd7f-060c-93dd-0353" name="Gnashing Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1352,7 +1352,7 @@
             <profile id="b430-83fe-5663-24fd" name="Avalanche of Flesh" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0"/>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269"/>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc"/>
@@ -1379,7 +1379,7 @@
             <profile id="4804-3f50-6979-7b93" name="Flailing Fists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1428,7 +1428,7 @@
           </modifiers>
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1511,7 +1511,7 @@
         <profile id="8c4c-88b0-c45c-7a01" name="Verminking1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">8</characteristic>
           </characteristics>
@@ -1519,7 +1519,7 @@
         <profile id="db98-c5fa-1500-bfbf" name="Verminking2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">7</characteristic>
           </characteristics>
@@ -1527,7 +1527,7 @@
         <profile id="0ed4-4a72-7456-de24" name="Verminking3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6</characteristic>
           </characteristics>
@@ -1535,7 +1535,7 @@
         <profile id="35d0-d7cd-1a94-97ab" name="Verminking4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5</characteristic>
           </characteristics>
@@ -1543,7 +1543,7 @@
         <profile id="c04b-e830-de3a-9a62" name="Verminking5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4</characteristic>
           </characteristics>
@@ -1587,7 +1587,7 @@
             <profile id="0f5c-3d32-337c-61eb" name="Plaguereaper" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1671,7 +1671,7 @@
       <profiles>
         <profile id="df6d-1738-b3a7-6506" name="Night Runners" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">7&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">7寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -1732,7 +1732,7 @@
             <profile id="be18-0b37-9856-43f4" name="Eshin Throwing Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -1754,7 +1754,7 @@
             <profile id="c25e-5f50-7dd4-d3e7" name="Stabbing Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1810,7 +1810,7 @@
       <profiles>
         <profile id="d3e0-2f76-e590-883d" name="Plague Censer Bearers" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6</characteristic>
@@ -1860,7 +1860,7 @@
             <profile id="ad9c-5c05-9522-8d17" name="Plague Censer" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1919,7 +1919,7 @@
         <profile id="1063-dd3c-2117-c4be" name="Plague Furnace1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-3</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">D3+4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -1927,7 +1927,7 @@
         <profile id="d880-53ac-d62d-f480" name="Plague Furnace2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">4-5</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">D3+3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -1935,7 +1935,7 @@
         <profile id="8732-ec9b-9eba-1bf7" name="Plague Furnace3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">6-8</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">D3+2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -1943,7 +1943,7 @@
         <profile id="dd6e-8f06-b938-988e" name="Plague Furnace4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">9-10</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">D3+1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -1951,7 +1951,7 @@
         <profile id="2e5d-d08f-790c-52ac" name="Plague Furnace5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">11+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">3&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">3寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">D3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5+</characteristic>
           </characteristics>
@@ -1985,7 +1985,7 @@
             <profile id="d1ec-3b69-2207-dd4a" name="Great Plague Censer" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -2007,7 +2007,7 @@
             <profile id="e606-947c-297b-1a68" name="Rusty Spikes" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2052,7 +2052,7 @@
                 <profile id="78e8-5ac2-e83a-5fb4" name="Warpstone-tipped Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2084,7 +2084,7 @@
             <profile id="945a-2411-36a3-e59d" name="Foetid Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2133,7 +2133,7 @@
       <profiles>
         <profile id="3292-f3ef-e3c5-2f6b" name="Plague Monk" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -2219,7 +2219,7 @@
                 <profile id="1683-019c-7796-65de" name="Pair of Foetid Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2237,7 +2237,7 @@
                 <profile id="9e76-157b-d2f4-85f0" name="Foetid Blade and Woe-Stave" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2281,7 +2281,7 @@
       <profiles>
         <profile id="7a5b-d9d8-6b7c-6df0" name="Plague Priest" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2333,7 +2333,7 @@
             <profile id="e3e5-ab7f-86fd-3bb4" name="Plague Censer" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2355,7 +2355,7 @@
             <profile id="f910-dfd1-9f0d-5195" name="Warpstone-tipped Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2382,7 +2382,7 @@
       <profiles>
         <profile id="c8be-0fce-a742-91d0" name="Plagueclaw" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">3&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">3寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2419,7 +2419,7 @@
             <profile id="dc10-c3ce-700d-80db" name="Plagueclaw Catapult" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6-31&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6-31寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2441,7 +2441,7 @@
             <profile id="ec73-fefc-396f-ab36" name="Rusty Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -2468,7 +2468,7 @@
         <profile id="a8bf-b5a4-1fb8-c3cd" name="Prehensile Tails" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2519,7 +2519,7 @@
       <profiles>
         <profile id="1453-d937-35c9-4ebd" name="Rat Ogors" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2567,7 +2567,7 @@
             <profile id="d062-8183-66a9-0e71" name="Warpfire Guns" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2589,7 +2589,7 @@
             <profile id="fc1e-4068-543d-b376" name="Tearing Claws, Blades and Fangs" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2611,7 +2611,7 @@
       <profiles>
         <profile id="2254-a03e-985b-8306" name="Rat Swarm" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">-</characteristic>
@@ -2649,7 +2649,7 @@
             <profile id="95ac-67c1-26c5-a61b" name="Gnawing Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -2671,7 +2671,7 @@
       <profiles>
         <profile id="0f87-f005-e091-8397" name="Ratling Gun" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -2701,7 +2701,7 @@
             <profile id="a475-97cd-db07-acdd" name="Ratling Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2723,7 +2723,7 @@
             <profile id="99a0-1bb8-1e90-719d" name="Rusty Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -2818,41 +2818,41 @@
         <profile id="f5bf-2e87-c3ec-80ac" name="Screaming Bell1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-3</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2+</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">26&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">26寸</characteristic>
           </characteristics>
         </profile>
         <profile id="d6b8-d28c-961c-80a1" name="Screaming Bell2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">4-5</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3+</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">22&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">22寸</characteristic>
           </characteristics>
         </profile>
         <profile id="7829-828f-bee0-028a" name="Screaming Bell3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">6-8</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4+</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">18&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">18寸</characteristic>
           </characteristics>
         </profile>
         <profile id="c3b1-e6f4-7f8e-c1a6" name="Screaming Bell4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">9-10</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4+</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">14&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">14寸</characteristic>
           </characteristics>
         </profile>
         <profile id="93be-23f6-f130-b415" name="Screaming Bell5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">11+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">3&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">3寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5+</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">10&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">10寸</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2894,7 +2894,7 @@
             <profile id="2bde-7956-0120-52db" name="Warpstone Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2916,7 +2916,7 @@
             <profile id="a65f-189b-e487-14b1" name="Tearing Claws and Fangs" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2938,7 +2938,7 @@
             <profile id="5c80-e36f-f37c-9218" name="Rusty Spikes" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3007,7 +3007,7 @@
       <profiles>
         <profile id="2491-4ddd-d6fc-bc80" name="Skryre Acolytes" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3058,7 +3058,7 @@
             <profile id="d957-5fc7-2de9-5d7b" name="Rusty Knife" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3080,7 +3080,7 @@
             <profile id="0fbe-5ef6-1541-a467" name="Poisoned Wind Globe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3150,7 +3150,7 @@
           <profiles>
             <profile id="ef93-8d1c-8c25-cf12" name="Stormfiend" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -3181,7 +3181,7 @@
                 <profile id="acc3-496f-e274-c135" name="Windlaunchers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3207,7 +3207,7 @@
                 <profile id="a992-379b-bc60-8c60" name="Warpfire Projectors" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3248,7 +3248,7 @@
                 <profile id="61ee-afb2-32b4-87e3" name="Grinderfists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3271,7 +3271,7 @@
                 <profile id="84ac-d3fe-0b16-89ca" name="Ratling Cannons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3D6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3307,7 +3307,7 @@
                 <profile id="2f53-b4b3-62d3-1a8d" name="Doomflayer Gauntlets" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3333,7 +3333,7 @@
                 <profile id="5f5c-70e5-c761-0fbb" name="Shock Gauntlets" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3382,7 +3382,7 @@
       <profiles>
         <profile id="422c-ae17-3084-5480" name="Stormvermin" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3429,7 +3429,7 @@
             <profile id="82b4-419a-74b8-19db" name="Rusty Halberd" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3545,7 +3545,7 @@
         <profile id="d2f6-304e-36da-f98f" name="Thanquol1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-3</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">6</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">+2</characteristic>
           </characteristics>
@@ -3553,7 +3553,7 @@
         <profile id="97f3-d7d8-6f2d-4244" name="Thanquol2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">4-5</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">9&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">9寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">+2</characteristic>
           </characteristics>
@@ -3561,7 +3561,7 @@
         <profile id="e617-d7ca-21b0-ead7" name="Thanquol3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">6-8</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">+1</characteristic>
           </characteristics>
@@ -3569,7 +3569,7 @@
         <profile id="4c54-b1c6-198f-a8ea" name="Thanquol4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">9-10</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">7&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">7寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">+1</characteristic>
           </characteristics>
@@ -3577,7 +3577,7 @@
         <profile id="1bcd-b6fd-be90-9dc6" name="Thanquol5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">11+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">0</characteristic>
           </characteristics>
@@ -3626,7 +3626,7 @@
             <profile id="a457-5cf5-0c3f-6179" name="Staff of the Horned Rat" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3653,7 +3653,7 @@
             <profile id="c097-6737-2fa6-b878" name="Crushing Blows" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3679,7 +3679,7 @@
                 <profile id="79d8-7f61-f135-ffa1" name="Warpfire Projectors" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3702,7 +3702,7 @@
                 <profile id="5e04-7d74-c5b1-9da1" name="Warpfire Braziers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3763,7 +3763,7 @@
         <profile id="f6dc-281f-7df5-baad" name="Verminlord Corruptor1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">10</characteristic>
           </characteristics>
@@ -3771,7 +3771,7 @@
         <profile id="b9c0-05f2-b16f-753d" name="Verminlord Corruptor2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">9</characteristic>
           </characteristics>
@@ -3779,7 +3779,7 @@
         <profile id="146b-51b2-2e4b-5e7b" name="Verminlord Corruptor3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">8</characteristic>
           </characteristics>
@@ -3787,7 +3787,7 @@
         <profile id="f7e9-3875-2fae-d25f" name="Verminlord Corruptor4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">7</characteristic>
           </characteristics>
@@ -3795,7 +3795,7 @@
         <profile id="0b14-c4c9-233f-ead0" name="Verminlord Corruptor5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6</characteristic>
           </characteristics>
@@ -3846,7 +3846,7 @@
             <profile id="d1e5-c51c-5629-2814" name="Plaguereapers" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3916,7 +3916,7 @@
         <profile id="8435-8366-0a55-a321" name="Deceiver1" page="" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -3924,7 +3924,7 @@
         <profile id="4fb4-250c-be60-4095" name="Deceiver2" page="" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -3932,7 +3932,7 @@
         <profile id="1421-9d91-ebd1-673f" name="Deceiver3" page="" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -3940,7 +3940,7 @@
         <profile id="fb64-c0f6-8a0b-1aff" name="Deceiver4" page="" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -3948,7 +3948,7 @@
         <profile id="1f73-428f-2ef5-cf6a" name="Deceiver5" page="" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -3996,7 +3996,7 @@
             <profile id="62e2-3cfa-9635-b0c0" name="Doomstar" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">13&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">13寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4023,7 +4023,7 @@
             <profile id="bd33-e4fe-319e-c1c8" name="Warpstiletto" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -4103,7 +4103,7 @@
         <profile id="2b27-1b20-f3f3-bd74" name="Warbringer1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -4111,7 +4111,7 @@
         <profile id="614b-74b6-b9c2-79a9" name="Warbringer2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -4119,7 +4119,7 @@
         <profile id="2ce6-d9c5-74cc-ffd0" name="Warbringer3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -4127,7 +4127,7 @@
         <profile id="7c51-d1a5-31ad-7a5b" name="Warbringer4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -4135,7 +4135,7 @@
         <profile id="c0e8-4657-6a8e-4816" name="Warbringer5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -4183,7 +4183,7 @@
             <profile id="3b9b-c3a4-ba0a-efb3" name="Spike-fist" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -4247,7 +4247,7 @@
         <profile id="9201-384d-5593-8ed6" name="Warpseer1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -4255,7 +4255,7 @@
         <profile id="7ff1-61cb-29ec-3332" name="Warpseer2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -4263,7 +4263,7 @@
         <profile id="8d69-49a9-cb47-76b9" name="Warpseer3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -4271,7 +4271,7 @@
         <profile id="c8e0-0c64-847f-db0e" name="Warpseer4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -4279,7 +4279,7 @@
         <profile id="6b23-dfff-cf85-e8fb" name="Warpseer5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -4347,7 +4347,7 @@
       <profiles>
         <profile id="c943-a6d0-d886-d142" name="Warlock Engineer" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4401,7 +4401,7 @@
             <profile id="f1b0-e004-e916-dd98" name="Warplock Pistol" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4423,7 +4423,7 @@
             <profile id="ba38-592d-0283-5095" name="Warp-energy Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4451,7 +4451,7 @@
       <profiles>
         <profile id="8b7e-8bd3-0cef-e6ff" name="Warp Lightning Cannon" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">3&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">3寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4481,7 +4481,7 @@
             <profile id="0a08-2110-d00d-818b" name="Warp Lightning Cannon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -4508,7 +4508,7 @@
             <profile id="18dc-3293-ea6c-1578" name="Teeth and Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4530,7 +4530,7 @@
       <profiles>
         <profile id="514a-7273-5586-c3d7" name="Warp-grinder" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4560,7 +4560,7 @@
             <profile id="8387-8c44-07c8-abab" name="Warp-grinder" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4582,7 +4582,7 @@
       <profiles>
         <profile id="8829-e497-d60a-cacd" name="Warpfire Thrower" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4612,7 +4612,7 @@
             <profile id="e2a3-1110-7112-1d77" name="Warpfire Thrower" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -4639,7 +4639,7 @@
             <profile id="d690-da0e-4e36-1bd4" name="Rusty Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4661,7 +4661,7 @@
       <profiles>
         <profile id="49e4-8675-39f5-c4fb" name="Warplock Jezzails" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4704,7 +4704,7 @@
             <profile id="8ea0-9f0c-e708-61ca" name="Warplock Jezzail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">30&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">30寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4726,7 +4726,7 @@
             <profile id="c75c-5ee9-bdf8-de70" name="Rusty Knives" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4748,7 +4748,7 @@
       <profiles>
         <profile id="17a9-495a-d944-01ae" name="Packmasters" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4777,7 +4777,7 @@
             <profile id="d0fc-241f-84eb-a089" name="Herding Whip" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4</characteristic>
@@ -4828,7 +4828,7 @@
             <profile id="2963-de20-3558-2996" name="Things-catcher" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4</characteristic>
@@ -4949,7 +4949,7 @@
         <profile id="87a0-eb1b-1574-fb71" name="Warpgnaw1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5</characteristic>
           </characteristics>
@@ -4957,7 +4957,7 @@
         <profile id="5791-b560-afd4-4213" name="Warpgnaw2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4</characteristic>
           </characteristics>
@@ -4965,7 +4965,7 @@
         <profile id="adaa-9f37-2d7c-e2d4" name="Warpgnaw3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3</characteristic>
           </characteristics>
@@ -4973,7 +4973,7 @@
         <profile id="5629-e7f5-9368-00c0" name="Warpgnaw4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2</characteristic>
           </characteristics>
@@ -4981,7 +4981,7 @@
         <profile id="fab8-ca91-7b84-ff62" name="Warpgnaw5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">0</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">1</characteristic>
           </characteristics>
@@ -5043,7 +5043,7 @@
             <profile id="f0a4-d317-d32a-b265" name="Gnaw-glaive" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5885,7 +5885,7 @@
             <profile id="ee52-d25f-fc6f-0b49" name="Warpstone-tipped Lash" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5907,7 +5907,7 @@
             <profile id="e8e3-01e5-266b-2dc3" name="Things Catcher" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5934,7 +5934,7 @@
       <profiles>
         <profile id="de3e-924d-2cb7-2c38" name="Warlock Bombardier" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -5978,7 +5978,7 @@
             <profile id="36b4-23cf-a631-33ed" name="Doomrocket" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6000,7 +6000,7 @@
             <profile id="4d8a-137f-d7f9-353d" name="Firing Pole" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -6149,7 +6149,7 @@
       <profiles>
         <profile id="028b-c8d4-a27c-7bb7" name="Skaven Warlord on Brood Horror" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -6190,7 +6190,7 @@
             <profile id="ce30-e494-7d69-ae4e" name="Warpforged Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6218,7 +6218,7 @@
                 <profile id="a0dd-18ed-896a-40ca" name="Fangs and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6240,7 +6240,7 @@
                 <profile id="20d1-54e1-f73e-c67d" name="Prehensile Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -6282,7 +6282,7 @@
         </profile>
         <profile id="a77a-03d8-0641-726f" name="Skaven Wolf Rats" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">4</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -6316,7 +6316,7 @@
             <profile id="4bcc-7f9c-daff-93d9" name="Dagger-long Teeth" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6338,7 +6338,7 @@
       <profiles>
         <profile id="a865-38ca-3f89-b3ea" name="Skaven Chieftain with Battle Standard" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -6372,7 +6372,7 @@
             <profile id="faf1-33f8-3df2-e031" name="Jagged Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6399,7 +6399,7 @@
       <profiles>
         <profile id="778d-45f2-81e1-140e" name="Skavenslaves" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">3</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -6481,7 +6481,7 @@
                 <profile id="5578-f118-b9b1-d726" name="Rusty Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -6499,7 +6499,7 @@
                 <profile id="59f5-4ce7-2aa9-1d33" name="Rusty Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">6+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -6517,7 +6517,7 @@
                 <profile id="0498-7cfa-0d7d-bd5f" name="Sling" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -8316,7 +8316,7 @@
     <profile id="2421-fd83-ca11-2414" name="Clubbing Blows" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
       <characteristics>
         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>

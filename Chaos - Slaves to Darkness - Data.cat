@@ -113,7 +113,7 @@
           <profiles>
             <profile id="5b81-edd5-94ab-ca53" name="Chaos Chariot" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -130,7 +130,7 @@
                 <profile id="465b-b36c-aca3-4fa0" name="Trampling Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -152,7 +152,7 @@
                 <profile id="25a7-7d00-025d-767c" name="Lashing Whip" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -178,7 +178,7 @@
                     <profile id="e47d-e379-f268-aa87" name="Chaos Greatblade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -196,7 +196,7 @@
                     <profile id="b109-22a9-e39f-ad3c" name="Chaos War-flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -229,7 +229,7 @@
         <profile id="8384-9fe4-b7d1-286a" name="Chaos Greatblade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -247,7 +247,7 @@
         <profile id="8255-400c-5b84-811f" name="Chaos War-flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -269,7 +269,7 @@
         <profile id="5e00-aa76-68e8-1455" name="Lashing Whip" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -317,7 +317,7 @@
       <profiles>
         <profile id="605f-9d5f-715e-bbbe" name="Chaos Chosen" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -389,7 +389,7 @@
             <profile id="8035-ed75-06f4-66cb" name="Soul Splitter" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -449,7 +449,7 @@
           <profiles>
             <profile id="fa10-8a6f-4947-96f8" name="Chaos Gorebeast Chariot" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">9&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">9寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -466,7 +466,7 @@
                 <profile id="2a9b-7736-6d65-eee2" name="Crushing Fists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -488,7 +488,7 @@
                 <profile id="c65d-c3cb-adb0-7372" name="Lashing Whip" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -514,7 +514,7 @@
                     <profile id="9157-0aa4-a708-2823" name="Chaos Greatblade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -532,7 +532,7 @@
                     <profile id="f4f9-3e96-51b6-5296" name="Chaos War-flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -571,7 +571,7 @@
       <profiles>
         <profile id="6a19-9bad-60d7-d5c1" name="Chaos Knights" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -590,7 +590,7 @@
         <profile id="487d-f7bb-0893-6f91" name="Cursed Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -671,7 +671,7 @@
             <profile id="ae0f-75bd-82f3-22c3" name="Trampling Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -697,7 +697,7 @@
                 <profile id="4216-8849-32eb-68e6" name="Ensorcelled Weapon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -715,7 +715,7 @@
                 <profile id="036d-6620-5728-c2df" name="Cursed Lance" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -747,7 +747,7 @@
       <profiles>
         <profile id="14ec-7920-9c2c-ec1d" name="Chaos Lord on Daemonic Mount" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -783,7 +783,7 @@
             <profile id="6462-a950-470b-5a1c" name="Cursed Warhammer" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -810,7 +810,7 @@
             <profile id="c02c-5b77-c044-829a" name="Mighty Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -898,7 +898,7 @@
         <profile id="f6c3-2970-5fc7-195f" name="Chaos Lord on Manticore1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5</characteristic>
           </characteristics>
@@ -906,7 +906,7 @@
         <profile id="398c-56a4-956f-3dc7" name="Chaos Lord on Manticore2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4</characteristic>
           </characteristics>
@@ -914,7 +914,7 @@
         <profile id="7bc0-6e59-115d-3f51" name="Chaos Lord on Manticore3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3</characteristic>
           </characteristics>
@@ -922,7 +922,7 @@
         <profile id="99bc-d775-8f21-0faf" name="Chaos Lord on Manticore4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2</characteristic>
           </characteristics>
@@ -930,7 +930,7 @@
         <profile id="3797-45e4-2b0f-2c3b" name="Chaos Lord on Manticore5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">1</characteristic>
           </characteristics>
@@ -972,7 +972,7 @@
             <profile id="c8d9-7351-1a59-a605" name="Honed Fangs and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -994,7 +994,7 @@
             <profile id="15d7-32cd-8300-b12c" name="Shredding Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1022,7 +1022,7 @@
                     <profile id="6fac-619f-8f17-813f" name="Daemon Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1045,7 +1045,7 @@
                     <profile id="b6f9-6a68-7cba-0461" name="Chaos Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1071,7 +1071,7 @@
                     <profile id="9dc9-14b5-c6ee-aaac" name="Chaos Lance" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1139,7 +1139,7 @@
       <profiles>
         <profile id="29a7-6532-3227-11ac" name="Chaos Marauder Horsemen" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -1217,7 +1217,7 @@
             <profile id="b8d4-0613-070c-e84c" name="Trampling Hooves" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1243,7 +1243,7 @@
                 <profile id="7137-445e-065f-1d59" name="Barbarian Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1266,7 +1266,7 @@
                 <profile id="7b3e-a993-65e5-5da3" name="Barbarian Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1284,7 +1284,7 @@
                 <profile id="2ae8-1988-b934-6a20" name="Marauder Javelin (Melee)" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1295,7 +1295,7 @@
                 <profile id="1ea9-7e7e-5338-55ef" name="Marauder Javelin (Missile)" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1349,7 +1349,7 @@
       <profiles>
         <profile id="8d86-7f7b-2965-429d" name="Chaos Marauders" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -1431,7 +1431,7 @@
                 <profile id="39dd-559d-cf4f-2b04" name="Barbarian Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1454,7 +1454,7 @@
                 <profile id="5e6a-e374-eeb4-4a2f" name="Barbarian Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1481,7 +1481,7 @@
       <profiles>
         <profile id="faf8-5a9c-1185-2393" name="Chaos Sorcerer Lord" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1536,7 +1536,7 @@
             <profile id="dc49-7a03-410c-f38d" name="Sorcerer Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1557,7 +1557,7 @@
             <profile id="cf54-4297-3432-b566" name="Chaos Runesword" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1611,7 +1611,7 @@
         <profile id="db71-8e76-1165-e310" name="Chaos Sorcerer Lord on Manticore1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5</characteristic>
           </characteristics>
@@ -1619,7 +1619,7 @@
         <profile id="4c92-2ebb-4512-3511" name="Chaos Sorcerer Lord on Manticore2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4</characteristic>
           </characteristics>
@@ -1627,7 +1627,7 @@
         <profile id="d101-e97c-7b11-7f6c" name="Chaos Sorcerer Lord on Manticore4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2</characteristic>
           </characteristics>
@@ -1635,7 +1635,7 @@
         <profile id="6f2d-d2e4-9a2a-7850" name="Chaos Sorcerer Lord on Manticore3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3</characteristic>
           </characteristics>
@@ -1643,7 +1643,7 @@
         <profile id="a9b2-9f44-0db1-0ad6" name="Chaos Sorcerer Lord on Manticore5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">1</characteristic>
           </characteristics>
@@ -1691,7 +1691,7 @@
             <profile id="bc23-bb1c-73f6-04f5" name="Sorcerous Reaping Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1713,7 +1713,7 @@
             <profile id="72fc-8675-ee46-59c0" name="Honed Fangs and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -1735,7 +1735,7 @@
             <profile id="c91a-fb75-6489-0b89" name="Shredding Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1771,7 +1771,7 @@
         </profile>
         <profile id="6561-a55a-fced-0220" name="Chaos Spawn" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1802,7 +1802,7 @@
                 <profile id="f84f-ffb4-6896-349e" name="Freakish Mutations" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1839,7 +1839,7 @@
       <profiles>
         <profile id="1ed6-e722-0ddd-b7b8" name="Chaos Warriors" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1916,7 +1916,7 @@
                 <profile id="06a7-d189-8b09-321f" name="Chaos Hand Weapon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1939,7 +1939,7 @@
                 <profile id="c85f-5b97-d091-67f3" name="Chaos Halberd" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1962,7 +1962,7 @@
                 <profile id="2f93-36cb-b482-a7d2" name="Chaos Greatblade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1985,7 +1985,7 @@
                 <profile id="0bee-51fa-cee6-3e72" name="Chaos Hand Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2064,41 +2064,41 @@
         <profile id="7caa-0198-90c7-f89c" name="Chaos Warshrine1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">6</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">18&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">18寸</characteristic>
           </characteristics>
         </profile>
         <profile id="1b35-3f57-034e-0444" name="Chaos Warshrine2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">7&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">7寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">12&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">12寸</characteristic>
           </characteristics>
         </profile>
         <profile id="eb05-ae46-2d75-698f" name="Chaos Warshrine3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">9&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">9寸</characteristic>
           </characteristics>
         </profile>
         <profile id="1b65-34c9-aa39-e5cb" name="Chaos Warshrine4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">5&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">5寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6寸</characteristic>
           </characteristics>
         </profile>
         <profile id="29e0-8b89-d6c1-3ab0" name="Chaos Warshrine5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
-            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3寸</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -2122,7 +2122,7 @@
             <profile id="f474-f393-de52-b917" name="Sacrificial Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2144,7 +2144,7 @@
             <profile id="af47-dc0f-62ed-58f2" name="Flailing Fists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2170,7 +2170,7 @@
       <profiles>
         <profile id="324c-c9bd-6385-df6c" name="Daemon Prince" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -2211,7 +2211,7 @@
             <profile id="c55a-875d-fcf7-81e0" name="Malefic Talons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2317,7 +2317,7 @@
                 <profile id="8035-0560-e097-04ec" name="Hellforged Sword" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2340,7 +2340,7 @@
                 <profile id="dc02-064e-cdcd-5f83" name="Daemonic Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2379,7 +2379,7 @@
         </profile>
         <profile id="5590-be3b-aa96-3e02" name="Darkoath Chieftain" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2403,7 +2403,7 @@
             <profile id="94d7-dc92-77be-4c00" name="Warlord Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2425,7 +2425,7 @@
             <profile id="b3ec-2a1a-771a-d020" name="Cursed Broadsword" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2457,7 +2457,7 @@
       <profiles>
         <profile id="1818-cf25-3911-b78d" name="Darkoath Warqueen" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -2499,7 +2499,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="d656-a3bd-d412-d48f" name="Warlord Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2526,7 +2526,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="17a1-f683-41fd-96d1" name="Exalted Hero of Chaos" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2568,7 +2568,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="3c1e-e7ec-7d30-d7f3" name="Rune-etched Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2760,7 +2760,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="2764-a9bc-bd78-19e2" name="Chaos Lord" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2797,7 +2797,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="9f3c-8933-272a-939b" name="Daemonbound Steel" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2808,7 +2808,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="be96-7503-583b-5110" name="Reaperblade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2831,7 +2831,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="4e8b-de0c-3c30-69f2" name="Daemonbound War-Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2917,7 +2917,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="be17-64ad-366c-1684" name="Goring Tusks" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">See rules</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">See rules</characteristic>
@@ -2928,7 +2928,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="5141-5fc7-8f9d-92c6" name="Trampling Feet" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2962,7 +2962,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="82c7-4c08-e6bb-0e5b" name="WoundTable1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">10</characteristic>
           </characteristics>
@@ -2970,7 +2970,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="17dd-efdc-74f1-3c5a" name="WoundTable2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-8</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">8</characteristic>
           </characteristics>
@@ -2978,7 +2978,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="57ca-29fb-2bad-c613" name="WoundTable3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">9-14</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6</characteristic>
           </characteristics>
@@ -2986,7 +2986,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="49d9-2690-5a23-d388" name="WoundTable4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">15-19</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4</characteristic>
           </characteristics>
@@ -2994,7 +2994,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="20da-a770-6520-6621" name="WoundTable5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">20+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2</characteristic>
           </characteristics>
@@ -3017,7 +3017,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="5446-99ec-1719-0693" name="Marauder Javelins &amp; Axes" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">8</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3069,7 +3069,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="2bfe-963e-5ed3-0e62" name="Sayl the Faithless" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3125,7 +3125,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1a1b-88a6-b3ee-8703" name="The Viperous Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3162,7 +3162,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="9c41-9997-ee0e-6dab" name="Nightmaw" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">2D6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -3200,7 +3200,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="e0e9-5d15-d614-8a94" name="Razor-tipped Tentacles" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3226,7 +3226,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="5197-5173-575a-925b" name="Slambo" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -3261,7 +3261,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="9df0-02ed-da49-7c5f" name="Chaos Axes" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3283,7 +3283,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="cdfa-f6ec-af99-3e0c" name="Hurled Chaos Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3308,7 +3308,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="a62f-a538-ea72-d6bf" name="The Unmade" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3343,7 +3343,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="0426-2c0a-5aa0-dfe5" name="Nightmare Sickles" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3378,7 +3378,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="695a-c097-4829-1272" name="Splintered Fang" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3412,7 +3412,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="1903-b92a-c1e3-d56a" name="Poisoned Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3447,7 +3447,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="df1e-af5d-8b2d-ab3e" name="Corvus Cabal" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3471,7 +3471,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="883f-d1f8-310f-6c9a" name="Raven Darts" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3482,7 +3482,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="371b-ce4f-063e-ac4c" name="Corvus Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3517,7 +3517,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="d43f-bd28-37f2-69f1" name="Cypher Lords" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3536,7 +3536,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="0668-27d1-9ca3-cdf8" name="Throwing Stars and Chakrams" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -3547,7 +3547,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="8b79-732b-f5f6-9645" name="Exotic Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3587,7 +3587,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="d0ed-d94e-a7cf-cd97" name="Iron Golems" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -3606,7 +3606,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="ff0b-a639-0b1f-8828" name="Bolas" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3617,7 +3617,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="51a2-821a-bfaf-e96e" name="Legion Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3663,7 +3663,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="8b89-e61e-47be-0116" name="Untamed Beasts" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -3692,7 +3692,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="9f7d-f438-ab11-008f" name="Hunting Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3703,7 +3703,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="7447-4654-e253-e94f" name="Jagged Harpoon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3738,7 +3738,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="292c-c78a-34cf-37b0" name="Furies" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">-</characteristic>
@@ -3752,7 +3752,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="3fdf-66e2-d77c-8614" name="Razor-sharp Dagger and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3790,7 +3790,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="fab5-397b-c34d-1357" name="Raptoryx" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">-</characteristic>
@@ -3804,7 +3804,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="ddec-80a2-e307-beb5" name="Razor-sharp Beak and Talons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3842,7 +3842,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="fc5c-a92c-428d-7899" name="Archaon3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-8</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">12寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1"/>
           </characteristics>
@@ -3850,7 +3850,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="7c1c-8fa0-1cd2-684d" name="Archaon2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">14&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">14寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">6</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1"/>
           </characteristics>
@@ -3858,7 +3858,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="eb3b-0b4f-e5b8-ecc5" name="Archaon5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">13-15</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1"/>
           </characteristics>
@@ -3866,7 +3866,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="d3ae-9255-fc3f-157c" name="Archaon4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">9-12</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1"/>
           </characteristics>
@@ -3882,7 +3882,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="6303-eaa5-014f-9fd7" name="Archaon6" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">16+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1"/>
           </characteristics>
@@ -3970,7 +3970,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="970e-4283-e7e7-5ed2" name="The Slayer of Kings" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">2+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4025,7 +4025,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="878e-3072-b0eb-de98" name="Monstrous Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">2+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4047,7 +4047,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="849d-1c4d-bd3c-838f" name="Lashing Tails" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4069,7 +4069,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="ac3a-2bc3-90c1-4f4d" name="Three Heads" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4121,7 +4121,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         </profile>
         <profile id="9938-4b0c-cd55-7630" name="Varanguard" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">9</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -4168,7 +4168,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="ef9f-d726-27a6-9860" name="Tearing Fangs" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4194,7 +4194,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="e92f-9cb9-9cf5-6e14" name="Ensorcelled Weapon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4212,7 +4212,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="72e6-e022-dcf4-0f52" name="Fellspear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4235,7 +4235,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
                 <profile id="2724-e42a-ac26-4b7c" name="Daemonforged Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4425,7 +4425,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="0f6c-6760-2650-a435" name="Chaos Lord on Karkadrak" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">9&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">9寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">9</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -4467,7 +4467,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1015-9dc9-1f80-0ec8" name="Hexed Battle-axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4489,7 +4489,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="c582-07f9-ed78-de73" name="Tearing Horn and Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4527,7 +4527,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="18e0-01e9-c917-51b0" name="Daemonbound Blade" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4554,7 +4554,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="c034-e5df-e8bb-8934" name="Battering Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4582,7 +4582,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="6afd-1fae-ac14-6ff0" name="Ogroid Myrmidon" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">8</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4623,7 +4623,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="d3a9-a432-d8ad-f92b" name="Gladiator Spear" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4634,7 +4634,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="79b1-9796-3285-a20c" name="Gladiator Spear (Melee)" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4656,7 +4656,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="8682-d7a2-cadf-7096" name="Great Horns" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4694,7 +4694,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="fdbc-d40f-330b-ec0b" name="Theddra Skull-Scryer" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4736,7 +4736,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="3f41-ecbc-b20b-7c2e" name="Darkoath Wand" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4769,7 +4769,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="81c2-f905-fa14-b390" name="Godsworn Hunt" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -4799,7 +4799,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="8a25-9e2c-ee7d-9ceb" name="Savage Bite" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4821,7 +4821,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1c89-ca33-427c-731f" name="Darkoath Knife" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4843,7 +4843,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="4204-edff-e3e7-2ded" name="Great Weapon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4865,7 +4865,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="aaf3-6e18-72e7-5d22" name="Ensorcelled Javelin" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4887,7 +4887,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="e930-33d8-ffd7-c017" name="Hunting Bow" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4898,7 +4898,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="8933-cfaa-8414-df05" name="Hunting Bow" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -4947,7 +4947,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="3dea-fb7d-7daa-65fe" name="Slaughterbrute1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">6</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">1+</characteristic>
           </characteristics>
@@ -4955,7 +4955,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="4570-2c21-91a6-53f6" name="Slaughterbrute4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
@@ -4963,7 +4963,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="da72-4f8d-c2b9-66f1" name="Slaughterbrute3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
@@ -4971,7 +4971,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="0ac1-4fc3-0137-03b3" name="Slaughterbrute5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5+</characteristic>
           </characteristics>
@@ -4979,7 +4979,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="be28-08d6-4862-54e1" name="Slaughterbrute2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
@@ -5001,7 +5001,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="2384-3f6f-fad3-54d3" name="Razor-tipped Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5023,7 +5023,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="cbae-b266-7e03-2652" name="Mighty Jaws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -5045,7 +5045,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="320f-fc7a-f2c5-5568" name="Slashing Talons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5135,7 +5135,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="8c9b-d5ff-a865-cbe2" name="Mutalith Vortex Beast5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">4寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">5+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">1</characteristic>
           </characteristics>
@@ -5143,7 +5143,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="e3be-0440-b39a-446e" name="Mutalith Vortex Beast4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">6寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">4+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">D3</characteristic>
           </characteristics>
@@ -5151,7 +5151,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="7f02-ca65-b636-cc9c" name="Mutalith Vortex Beast3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">3+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">D6</characteristic>
           </characteristics>
@@ -5159,7 +5159,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="2efd-c192-6e40-536b" name="Mutalith Vortex Beast1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">10寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">1+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3D6</characteristic>
           </characteristics>
@@ -5167,7 +5167,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="0528-9dce-3d09-62f0" name="Mutalith Vortex Beast2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8&quot;</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">8寸</characteristic>
             <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">2+</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2D6</characteristic>
           </characteristics>
@@ -5188,7 +5188,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1b16-1232-319c-cdb8" name="Betentacled Maw" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5210,7 +5210,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="ee2a-1a41-5fb4-514e" name="Crushing Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -5243,7 +5243,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="4b22-02fb-39b2-1de7" name="Spire Tyrants" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -5267,7 +5267,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
         <profile id="34d7-0a0d-df51-b097" name="Gladitorial Weapons" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5307,7 +5307,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="3e45-b612-425d-cb52" name="Mindstealer Sphiranx" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">10&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">10寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">10</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -5343,7 +5343,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1a06-c081-ffa5-3efc" name="Shredding Claws" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5365,7 +5365,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="5a1d-c4fc-dce5-bedd" name="Lashing Tail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5387,7 +5387,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
       <profiles>
         <profile id="6a62-cfd2-5d18-3d72" name="Fomoroid Crusher" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">6&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">6寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">10</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">10</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -5423,7 +5423,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="1093-65ea-610a-c4ab" name="Hurled Terrain" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5445,7 +5445,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
             <profile id="faa4-be4c-af6b-e834" name="Crushing Fists" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6297,7 +6297,7 @@ In addition, add 1 to the Damage characteristic of this model’s Rune-etched Ax
     <profile id="edde-ce70-dae6-29eb" name="Barbarian Flail" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
       <characteristics>
         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>

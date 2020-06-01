@@ -980,7 +980,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
       <profiles>
         <profile id="d96e-f5ba-dada-e3db" name="Saurus Astrolith Bearer" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">6</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1066,7 +1066,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
       <profiles>
         <profile id="8133-66ae-38f2-ba64" name="Saurus Scar-Veteran on Cold One" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1095,7 +1095,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="3836-d338-4f44-4894" name="Snapping Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1170,7 +1170,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
       <profiles>
         <profile id="863f-6c8c-77ce-d0d0" name="Skink Priest" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1196,7 +1196,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="53c6-578f-0aa6-769b" name="Star-stone Staff" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1218,7 +1218,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="8325-0a77-aae6-953a" name="Starbolt" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1292,7 +1292,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
         </profile>
         <profile id="4a03-6a70-8570-e2cf" name="Skink Starpriest" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -1332,7 +1332,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="8ffe-457f-c9b1-d2b2" name="Serpent Staff" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1354,7 +1354,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="0932-b831-e48b-7cc3" name="Venombolt" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1426,7 +1426,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
         <profile id="d3a1-a102-65c9-a728" name="Fearsome Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1444,7 +1444,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
         <profile id="6770-edae-fa85-dd41" name="Celestite War-pick" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1497,7 +1497,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
       <profiles>
         <profile id="7810-3b39-0d1e-4b21" name="Saurus Eternity Warden" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -1534,7 +1534,7 @@ At the end of your movement phase, you can set up one or more of the reserve uni
             <profile id="3f10-e8ff-3880-8251" name="Star-stone Mace (Celestite weapon)" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1631,7 +1631,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
           <profiles>
             <profile id="2b25-0943-4b4a-bb71" name="Chameleon Skink" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -1648,7 +1648,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="7cf1-7017-3830-14d7" name="Celestite Dagger" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -1670,7 +1670,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="2f6a-5e45-0d89-41f4" name="Dartpipe" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -1738,7 +1738,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="2e7c-79cc-9f84-b2a0" name="Saurus Sunblood" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -1772,7 +1772,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="ad28-aa92-4d55-4c3e" name="Celestite Warmace" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1860,7 +1860,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
               <profiles>
                 <profile id="e801-c89c-89a2-03ed" name="Salamander" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
                   <characteristics>
-                    <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+                    <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
                     <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
                     <characteristic name="Bravery" typeId="0c85-bf79-836b-759e"/>
                     <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1877,7 +1877,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                     <profile id="4b24-c1b3-f5e7-87e8" name="Burning Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1899,7 +1899,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                     <profile id="efdf-e49a-0ae4-2689" name="Stream of Fire" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -1944,7 +1944,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="f4bf-b184-5981-f62d" name="Skink Handler" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -1961,7 +1961,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="7f0b-92af-7bae-0d0b" name="Celestite Goad" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -2038,7 +2038,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
               <profiles>
                 <profile id="ea6a-1133-bf20-e98f" name="Razordon" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
                   <characteristics>
-                    <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+                    <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
                     <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
                     <characteristic name="Bravery" typeId="0c85-bf79-836b-759e"/>
                     <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2060,7 +2060,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                     <profile id="7bc2-e565-3044-47a7" name="Volley of Spikes" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                       <characteristics>
                         <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                        <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                         <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
                         <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                         <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2141,7 +2141,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="3836-c761-2d47-f582" name="Slann Starmaster" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">9</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2199,7 +2199,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="aa51-8ad3-8996-9c01" name="Azure Lightning" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2291,7 +2291,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="0d98-deb6-b948-921d" name="Drakebite Maul" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2313,7 +2313,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="b03a-6a77-ed7b-4e42" name="Vice-like Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2351,7 +2351,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="4e7e-4a03-916b-ed89" name="Moon Hammer" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2445,7 +2445,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
           <profiles>
             <profile id="b61f-11e5-3b5c-52f9" name="Saurus Warrior" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2499,7 +2499,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="d093-55da-ecb3-eddc" name="Celestite Club" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2520,7 +2520,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="b508-59c2-03ba-62af" name="Celestite Spear" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2571,7 +2571,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="19bf-5c6b-4752-5c4c" name="Powerful Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -2669,35 +2669,35 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         </profile>
         <profile id="37d8-f324-2524-0ca7" name="00-12" publicationId="3721-70d4-pubN65537" hidden="false" typeId="5a09-8444-91ba-f131" typeName="(Wounds Suffered) Dread Saurian">
           <characteristics>
-            <characteristic name="Move" typeId="c11b-682c-43a6-b768">10&quot;</characteristic>
+            <characteristic name="Move" typeId="c11b-682c-43a6-b768">10寸</characteristic>
             <characteristic name="Gargantuan Jaws" typeId="eede-09bc-2dbd-26a1">6</characteristic>
             <characteristic name="Raking Claws" typeId="304c-c107-0e5b-1381">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="ed31-8886-3088-2c41" name="13-18" publicationId="3721-70d4-pubN65537" hidden="false" typeId="5a09-8444-91ba-f131" typeName="(Wounds Suffered) Dread Saurian">
           <characteristics>
-            <characteristic name="Move" typeId="c11b-682c-43a6-b768">9&quot;</characteristic>
+            <characteristic name="Move" typeId="c11b-682c-43a6-b768">9寸</characteristic>
             <characteristic name="Gargantuan Jaws" typeId="eede-09bc-2dbd-26a1">5</characteristic>
             <characteristic name="Raking Claws" typeId="304c-c107-0e5b-1381">3+</characteristic>
           </characteristics>
         </profile>
         <profile id="6e84-3250-5c68-46ed" name="31+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="5a09-8444-91ba-f131" typeName="(Wounds Suffered) Dread Saurian">
           <characteristics>
-            <characteristic name="Move" typeId="c11b-682c-43a6-b768">6&quot;</characteristic>
+            <characteristic name="Move" typeId="c11b-682c-43a6-b768">6寸</characteristic>
             <characteristic name="Gargantuan Jaws" typeId="eede-09bc-2dbd-26a1">2</characteristic>
             <characteristic name="Raking Claws" typeId="304c-c107-0e5b-1381">5+</characteristic>
           </characteristics>
         </profile>
         <profile id="b1c1-17af-88db-1c08" name="19-24" publicationId="3721-70d4-pubN65537" hidden="false" typeId="5a09-8444-91ba-f131" typeName="(Wounds Suffered) Dread Saurian">
           <characteristics>
-            <characteristic name="Move" typeId="c11b-682c-43a6-b768">8&quot;</characteristic>
+            <characteristic name="Move" typeId="c11b-682c-43a6-b768">8寸</characteristic>
             <characteristic name="Gargantuan Jaws" typeId="eede-09bc-2dbd-26a1">4</characteristic>
             <characteristic name="Raking Claws" typeId="304c-c107-0e5b-1381">3+</characteristic>
           </characteristics>
         </profile>
         <profile id="18c4-8efe-1132-2507" name="25-30" publicationId="3721-70d4-pubN65537" hidden="false" typeId="5a09-8444-91ba-f131" typeName="(Wounds Suffered) Dread Saurian">
           <characteristics>
-            <characteristic name="Move" typeId="c11b-682c-43a6-b768">7&quot;</characteristic>
+            <characteristic name="Move" typeId="c11b-682c-43a6-b768">7寸</characteristic>
             <characteristic name="Gargantuan Jaws" typeId="eede-09bc-2dbd-26a1">3</characteristic>
             <characteristic name="Raking Claws" typeId="304c-c107-0e5b-1381">4+</characteristic>
           </characteristics>
@@ -2744,7 +2744,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="e800-70e3-ae5e-8f90" name="Armoured Tail" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2766,7 +2766,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="8887-5426-5027-790e" name="Gargantuan Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2788,7 +2788,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="5528-8e75-384f-0754" name="Raking Claws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2849,7 +2849,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="3624-5d80-6610-8fce" name="Lord Kroak" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">9</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -2919,7 +2919,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="d16c-e96b-3ab3-9be7" name="Azyrite Force Barrier" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -2958,7 +2958,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
           </modifiers>
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3019,36 +3019,36 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         </profile>
         <profile id="7f91-fe80-a830-5ab4" name="10+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="d4d0-eb7a-e2e3-98b6" typeName="(Wounds Suffered) Troglodon">
           <characteristics>
-            <characteristic name="Move" typeId="51b4-e3da-a716-db78">6&quot;</characteristic>
-            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">6&quot;</characteristic>
+            <characteristic name="Move" typeId="51b4-e3da-a716-db78">6寸</characteristic>
+            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">6寸</characteristic>
             <characteristic name="Venomous Jaws" typeId="856d-0281-154f-740b">5+</characteristic>
           </characteristics>
         </profile>
         <profile id="9f2f-f604-ad27-ea23" name="00-02" publicationId="3721-70d4-pubN65537" hidden="false" typeId="d4d0-eb7a-e2e3-98b6" typeName="(Wounds Suffered) Troglodon">
           <characteristics>
-            <characteristic name="Move" typeId="51b4-e3da-a716-db78">10&quot;</characteristic>
-            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">18&quot;</characteristic>
+            <characteristic name="Move" typeId="51b4-e3da-a716-db78">10寸</characteristic>
+            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">18寸</characteristic>
             <characteristic name="Venomous Jaws" typeId="856d-0281-154f-740b">2+</characteristic>
           </characteristics>
         </profile>
         <profile id="c915-2412-e104-208d" name="05-07" publicationId="3721-70d4-pubN65537" hidden="false" typeId="d4d0-eb7a-e2e3-98b6" typeName="(Wounds Suffered) Troglodon">
           <characteristics>
-            <characteristic name="Move" typeId="51b4-e3da-a716-db78">8&quot;</characteristic>
-            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">12&quot;</characteristic>
+            <characteristic name="Move" typeId="51b4-e3da-a716-db78">8寸</characteristic>
+            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">12寸</characteristic>
             <characteristic name="Venomous Jaws" typeId="856d-0281-154f-740b">3+</characteristic>
           </characteristics>
         </profile>
         <profile id="be20-c70e-c70f-553e" name="08-09" publicationId="3721-70d4-pubN65537" hidden="false" typeId="d4d0-eb7a-e2e3-98b6" typeName="(Wounds Suffered) Troglodon">
           <characteristics>
-            <characteristic name="Move" typeId="51b4-e3da-a716-db78">7&quot;</characteristic>
-            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">9&quot;</characteristic>
+            <characteristic name="Move" typeId="51b4-e3da-a716-db78">7寸</characteristic>
+            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">9寸</characteristic>
             <characteristic name="Venomous Jaws" typeId="856d-0281-154f-740b">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="bfee-c928-cef6-df50" name="03-04" publicationId="3721-70d4-pubN65537" hidden="false" typeId="d4d0-eb7a-e2e3-98b6" typeName="(Wounds Suffered) Troglodon">
           <characteristics>
-            <characteristic name="Move" typeId="51b4-e3da-a716-db78">9&quot;</characteristic>
-            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">15&quot;</characteristic>
+            <characteristic name="Move" typeId="51b4-e3da-a716-db78">9寸</characteristic>
+            <characteristic name="Noxious Spittle" typeId="15f1-ef6f-3b5c-d848">15寸</characteristic>
             <characteristic name="Venomous Jaws" typeId="856d-0281-154f-740b">3+</characteristic>
           </characteristics>
         </profile>
@@ -3098,7 +3098,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="708d-e7a9-29cd-4258" name="Divining Rod" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3150,7 +3150,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
             <profile id="d17c-754d-6c54-f3e8" name="Venomous Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3188,7 +3188,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="c3c0-f52e-4d44-5f77" name="Crushing Stomps" publicationId="e51d-b1a3-pubE5LCI" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3206,7 +3206,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="a6c9-b5cc-cce6-7cdc" name="Massive Horns" publicationId="e51d-b1a3-pubE5LCI" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3224,7 +3224,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="b541-17c2-9e82-4d9a" name="Grinding Jaws" publicationId="e51d-b1a3-pubE5LCI" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3254,7 +3254,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
           </modifiers>
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3272,7 +3272,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="e5f2-4822-8c89-925e" name="Sunfire Throwers" publicationId="e51d-b1a3-pubE5LCI" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile (Crew)</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
@@ -3295,7 +3295,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="1c20-5d88-defa-f5fe" name="Skystreak Bow" publicationId="e51d-b1a3-pubE5LCI" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile (Crew)</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3419,7 +3419,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="4aa4-35c8-93dc-9ebe" name="Celestite Greatblade" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3437,7 +3437,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="f10c-5ab8-6198-1f35" name="Celestite Warspear (Saurus Knights)" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3460,7 +3460,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="cb49-847e-0190-03b3" name="Celestite Warblade" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">5</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3513,7 +3513,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="3311-6f35-8a2d-4e08" name="Saurus Oldblood" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
@@ -3546,7 +3546,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
                 <profile id="df82-830a-c5aa-a8e6" name="Celestite Maul" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3599,7 +3599,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
         <profile id="7e8d-36c0-0801-9ec1" name="Skyblade" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3652,7 +3652,7 @@ Any reserve units that are in hiding and not on the battlefield at the start of 
       <profiles>
         <profile id="a720-8ff6-0867-d582" name="Ripperdactyl Chief" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3686,7 +3686,7 @@ ability more than once per phase.</characteristic>
             <profile id="fd4c-2feb-96e7-9051" name="Tearing Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3776,7 +3776,7 @@ ability more than once per phase.</characteristic>
           <profiles>
             <profile id="e160-4e6a-124a-6c4d" name="Ripperdactyl Rider" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">12寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -3793,7 +3793,7 @@ ability more than once per phase.</characteristic>
                 <profile id="694b-ee09-46aa-7e0f" name="Moonstone Warspear" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -3815,7 +3815,7 @@ ability more than once per phase.</characteristic>
                 <profile id="fe2f-e410-b045-7412" name="Tearing Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -3926,35 +3926,35 @@ ability more than once per phase.</characteristic>
         </profile>
         <profile id="553f-5095-aa4c-ae1b" name="00-03" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
           <characteristics>
-            <characteristic name="Move" typeId="c680-f8d6-c670-c239">8&quot;</characteristic>
+            <characteristic name="Move" typeId="c680-f8d6-c670-c239">8寸</characteristic>
             <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">4</characteristic>
             <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">5</characteristic>
           </characteristics>
         </profile>
         <profile id="2b28-c6af-30da-232f" name="09-10" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
           <characteristics>
-            <characteristic name="Move" typeId="c680-f8d6-c670-c239">5&quot;</characteristic>
+            <characteristic name="Move" typeId="c680-f8d6-c670-c239">5寸</characteristic>
             <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">2</characteristic>
             <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">2</characteristic>
           </characteristics>
         </profile>
         <profile id="8c65-ea32-46f2-7b19" name="06-08" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
           <characteristics>
-            <characteristic name="Move" typeId="c680-f8d6-c670-c239">6&quot;</characteristic>
+            <characteristic name="Move" typeId="c680-f8d6-c670-c239">6寸</characteristic>
             <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">2</characteristic>
             <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">3</characteristic>
           </characteristics>
         </profile>
         <profile id="db7f-057a-f1c6-0f9e" name="11+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
           <characteristics>
-            <characteristic name="Move" typeId="c680-f8d6-c670-c239">4&quot;</characteristic>
+            <characteristic name="Move" typeId="c680-f8d6-c670-c239">4寸</characteristic>
             <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">1</characteristic>
             <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">1</characteristic>
           </characteristics>
         </profile>
         <profile id="33a9-ae44-e706-98ae" name="04-05" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
           <characteristics>
-            <characteristic name="Move" typeId="c680-f8d6-c670-c239">7&quot;</characteristic>
+            <characteristic name="Move" typeId="c680-f8d6-c670-c239">7寸</characteristic>
             <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">3</characteristic>
             <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">4</characteristic>
           </characteristics>
@@ -4149,7 +4149,7 @@ ability more than once per phase.</characteristic>
             <profile id="88dc-3f84-0e20-281c" name="Bludgeoning Tail" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4178,7 +4178,7 @@ ability more than once per phase.</characteristic>
                 <profile id="4d54-07af-2b21-adac" name="Ark of Sotek" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">3寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">6+</characteristic>
@@ -4204,7 +4204,7 @@ ability more than once per phase.</characteristic>
                 <profile id="5207-badd-10e7-74ad" name="Solar Engine" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">24寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4300,7 +4300,7 @@ ability more than once per phase.</characteristic>
           <profiles>
             <profile id="a223-3dc9-4cd2-ba6e" name="Terradon Rider" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">16&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">16寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">3</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4317,7 +4317,7 @@ ability more than once per phase.</characteristic>
                 <profile id="8547-e5ca-7e00-8fce" name="Razor-sharp Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4370,7 +4370,7 @@ ability more than once per phase.</characteristic>
                 <profile id="5519-9662-28e6-5793" name="Starstrike Javelin" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">12寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4391,7 +4391,7 @@ ability more than once per phase.</characteristic>
                 <profile id="756a-b2fe-8681-3aa2" name="Sunleech Bolas" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4451,7 +4451,7 @@ ability more than once per phase.</characteristic>
       <profiles>
         <profile id="dd90-5988-2aad-ddfd" name="Terradon Chief" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">16&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">16寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4489,7 +4489,7 @@ ability more than once per phase.</characteristic>
             <profile id="f8c5-1361-93e7-eabd" name="Razor-sharp Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -4577,7 +4577,7 @@ ability more than once per phase.</characteristic>
           <profiles>
             <profile id="9f0f-8088-3435-b710" name="Saurus Guard" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -4616,7 +4616,7 @@ ability more than once per phase.</characteristic>
             <profile id="f115-32f4-fd92-a5d4" name="Celestite Polearm" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4706,7 +4706,7 @@ ability more than once per phase.</characteristic>
       <profiles>
         <profile id="658c-0290-99fe-aaa5" name="Skink Starseer" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5寸</characteristic>
             <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
             <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
             <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
@@ -4753,7 +4753,7 @@ ability more than once per phase.</characteristic>
             <profile id="e0c4-15d0-1ce4-32b6" name="Astral Bolt" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4775,7 +4775,7 @@ ability more than once per phase.</characteristic>
             <profile id="bb35-30ce-c8e9-e1f8" name="Astromancer&apos;s Staff" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -4862,7 +4862,7 @@ ability more than once per phase.</characteristic>
           <profiles>
             <profile id="5f70-1562-2138-53a3" name="Skink" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
@@ -5060,7 +5060,7 @@ ability more than once per phase.</characteristic>
           <profiles>
             <profile id="4c63-e2b0-3ff1-47da" name="Saurus Knight" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
               <characteristics>
-                <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+                <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
                 <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">2</characteristic>
                 <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
                 <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -5077,7 +5077,7 @@ ability more than once per phase.</characteristic>
                 <profile id="83cd-1b96-5856-ca2b" name="Snapping Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5138,7 +5138,7 @@ ability more than once per phase.</characteristic>
                 <profile id="d856-544d-e42b-2df9" name="Celestite Blade" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
                     <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                     <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
                     <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                     <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5196,7 +5196,7 @@ ability more than once per phase.</characteristic>
         <profile id="6e21-7f19-755d-0196" name="Celestite Dagger" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -5214,7 +5214,7 @@ ability more than once per phase.</characteristic>
         <profile id="0f6a-4e50-df99-6e2d" name="Moonstone Club" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5287,35 +5287,35 @@ ability more than once per phase.</characteristic>
         </profile>
         <profile id="ccfc-c00b-ed12-c7cc" name="08-09" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">7&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">7寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">5+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">2</characteristic>
           </characteristics>
         </profile>
         <profile id="6a09-a2cd-937d-77fa" name="05-07" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">8&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">8寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">4+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">3</characteristic>
           </characteristics>
         </profile>
         <profile id="eb55-5f90-e1c7-b048" name="10+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">6&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">6寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">5+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">1</characteristic>
           </characteristics>
         </profile>
         <profile id="d952-885f-c5ff-5517" name="03-04" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">9&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">9寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">4+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">4</characteristic>
           </characteristics>
         </profile>
         <profile id="c153-ca79-88f5-ad36" name="00-02" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">10&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">10寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">3+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">5</characteristic>
           </characteristics>
@@ -5346,7 +5346,7 @@ ability more than once per phase.</characteristic>
             <profile id="9a8e-c17c-386b-d15d" name="Sunbolt Gauntlet" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">18寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
@@ -5373,7 +5373,7 @@ ability more than once per phase.</characteristic>
             <profile id="3394-29ba-c480-39b7" name="Sunstone Spear (Celestite Weapon)" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -5456,35 +5456,35 @@ ability more than once per phase.</characteristic>
         </profile>
         <profile id="df81-e68e-8baf-6ec8" name="08-09" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">7&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">7寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">5+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">2</characteristic>
           </characteristics>
         </profile>
         <profile id="55ee-8173-e82f-2432" name="05-07" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">8&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">8寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">4+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">3</characteristic>
           </characteristics>
         </profile>
         <profile id="811e-76f3-aa10-7195" name="10+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">6&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">6寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">5+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">1</characteristic>
           </characteristics>
         </profile>
         <profile id="8612-0df5-830e-798d" name="03-04" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">9&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">9寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">4+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">4</characteristic>
           </characteristics>
         </profile>
         <profile id="1d65-1a3c-12b1-136e" name="00-02" publicationId="3721-70d4-pubN65537" hidden="false" typeId="4958-8467-11bf-beb3" typeName="(Wounds Suffered) Carnosaur">
           <characteristics>
-            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">10&quot;</characteristic>
+            <characteristic name="Move" typeId="738d-4ed0-ca37-dc05">10寸</characteristic>
             <characteristic name="Clawed Forelimbs" typeId="7285-51b8-b64b-3e7c">3+</characteristic>
             <characteristic name="Massive Jaws" typeId="e475-ae05-8a45-6a5e">5</characteristic>
           </characteristics>
@@ -5556,7 +5556,7 @@ ability more than once per phase.</characteristic>
         <profile id="9b5d-a88f-6f27-94e5" name="Massive Jaws" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Mount)</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -6944,7 +6944,7 @@ to set up the WIZARD, then the WIZARD is slain.</description>
             <profile id="7f29-f904-c666-fe7b" name="Meteoric Warspear" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
                 <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee (Crew)</characteristic>
-                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
                 <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
                 <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
                 <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -7016,7 +7016,7 @@ to set up the WIZARD, then the WIZARD is slain.</description>
         <profile id="267a-9515-ad54-0a88" name="Celestite Warspear (Scar-Veteran)" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">6</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -7039,7 +7039,7 @@ to set up the WIZARD, then the WIZARD is slain.</description>
         <profile id="5ca3-daa4-b426-62c9" name="Celestite Warspear (Oldblood)" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
@@ -7057,7 +7057,7 @@ to set up the WIZARD, then the WIZARD is slain.</description>
         <profile id="acc7-092e-3f59-27f5" name="Boltspitter" publicationId="3721-70d4-pubN65537" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
           <characteristics>
             <characteristic name="Type" typeId="655c-362e-a663-3e50">远程</characteristic>
-            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16&quot;</characteristic>
+            <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16寸</characteristic>
             <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
             <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
             <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
@@ -8124,7 +8124,7 @@ If both players have Seraphon armies, the players alternate moving predatory end
     </profile>
     <profile id="2767-8488-534f-e1e7" name="Kroxigor" publicationId="3721-70d4-pubN65537" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
       <characteristics>
-        <characteristic name="Move" typeId="8655-6213-2824-1752">8&quot;</characteristic>
+        <characteristic name="Move" typeId="8655-6213-2824-1752">8寸</characteristic>
         <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
         <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
         <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
@@ -8195,35 +8195,35 @@ If both players have Seraphon armies, the players alternate moving predatory end
     </profile>
     <profile id="2bf7-1e06-7a48-1a78" name="00-02" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
       <characteristics>
-        <characteristic name="Move" typeId="c680-f8d6-c670-c239">8&quot;</characteristic>
+        <characteristic name="Move" typeId="c680-f8d6-c670-c239">8寸</characteristic>
         <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">4</characteristic>
         <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">5</characteristic>
       </characteristics>
     </profile>
     <profile id="ee43-bfaa-6cbe-7640" name="03-04" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
       <characteristics>
-        <characteristic name="Move" typeId="c680-f8d6-c670-c239">7&quot;</characteristic>
+        <characteristic name="Move" typeId="c680-f8d6-c670-c239">7寸</characteristic>
         <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">3</characteristic>
         <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">4</characteristic>
       </characteristics>
     </profile>
     <profile id="708e-c5db-2819-4245" name="05-06" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
       <characteristics>
-        <characteristic name="Move" typeId="c680-f8d6-c670-c239">6&quot;</characteristic>
+        <characteristic name="Move" typeId="c680-f8d6-c670-c239">6寸</characteristic>
         <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">2</characteristic>
         <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">3</characteristic>
       </characteristics>
     </profile>
     <profile id="0818-d910-1716-1fdb" name="07-08" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
       <characteristics>
-        <characteristic name="Move" typeId="c680-f8d6-c670-c239">5&quot;</characteristic>
+        <characteristic name="Move" typeId="c680-f8d6-c670-c239">5寸</characteristic>
         <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">2</characteristic>
         <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">2</characteristic>
       </characteristics>
     </profile>
     <profile id="d5ce-e752-92d7-f9c1" name="09+" publicationId="3721-70d4-pubN65537" hidden="false" typeId="2ba5-2a89-3edb-eaf2" typeName="(Wounds Suffered) Stegadon">
       <characteristics>
-        <characteristic name="Move" typeId="c680-f8d6-c670-c239">4&quot;</characteristic>
+        <characteristic name="Move" typeId="c680-f8d6-c670-c239">4寸</characteristic>
         <characteristic name="Massive Horns" typeId="caba-c40b-32b4-a5b9">1</characteristic>
         <characteristic name="Crushing Stomps" typeId="e53f-732a-5ffc-021b">1</characteristic>
       </characteristics>
