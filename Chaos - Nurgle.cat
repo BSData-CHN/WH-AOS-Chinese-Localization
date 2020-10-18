@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="6894-a70d-7327-b3c3" name="Chaos - Nurgle" revision="48" battleScribeVersion="2.03" authorName="https://gitter.im/BSData/warhammer-age-of-sigmar" authorContact="@BSData" authorUrl="https://github.com/BSData/warhammer-age-of-sigmar" library="false" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="47" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="6894-a70d-7327-b3c3" name="Chaos - Nurgle" revision="55" battleScribeVersion="2.03" authorName="https://gitter.im/BSData/warhammer-age-of-sigmar" authorContact="@BSData" authorUrl="https://github.com/BSData/warhammer-age-of-sigmar" library="false" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="63" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
     <publication id="6894-a70d-pubN65537" name="Chaos Battletome: Maggotkin of Nurgle"/>
     <publication id="6894-a70d-pubN78755" name="Compendium: Tamurkhan&apos;s Horde"/>
@@ -420,6 +420,8 @@
     <entryLink id="c1cc-fd39-3e90-4112" name="Battalion: Plaguetouched Warband" hidden="false" collective="false" import="true" targetId="6d82-6504-2eb9-7ffb" type="selectionEntry"/>
     <entryLink id="2fbe-de5a-7564-3128" name="Chaos Lord on Karkadrak" hidden="false" collective="false" import="true" targetId="e6c9-c984-cd6f-33e3" type="selectionEntry"/>
     <entryLink id="6a4f-2a58-9d43-e2b2" name="Soul Grinder" hidden="false" collective="false" import="true" targetId="8713-fb95-f605-7be2" type="selectionEntry"/>
+    <entryLink id="dc13-052a-bdb1-8ffd" name="The Wurmspat" hidden="false" collective="false" import="true" targetId="493b-ff80-f461-ff03" type="selectionEntry"/>
+    <entryLink id="653e-d2a4-1cac-7f69" name="Fecula Flyblown" hidden="false" collective="false" import="true" targetId="84e0-0f45-4ffd-0732" type="selectionEntry"/>
   </entryLinks>
   <sharedSelectionEntries>
     <selectionEntry id="ba97-4abb-1ec1-657f" name="Bloab Rotspawned" publicationId="6894-a70d-pubN65537" page="96" hidden="false" collective="false" import="true" type="unit">
@@ -714,7 +716,7 @@
         <entryLink id="86ee-c644-9f15-9727" name="Lores of Nurgle" hidden="false" collective="false" import="true" targetId="98af-9a06-6b8b-4712" type="selectionEntryGroup"/>
       </entryLinks>
       <costs>
-        <cost name="pts" typeId="points" value="420.0"/>
+        <cost name="pts" typeId="points" value="380.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="857a-93de-02d0-ee3b" name="Morbidex Twiceborn" publicationId="6894-a70d-pubN65537" page="97" hidden="false" collective="false" import="true" type="unit">
@@ -845,7 +847,7 @@
         <entryLink id="b91b-dadc-f336-e840" name="General" hidden="false" collective="false" import="true" targetId="cb83-a378-d442-0e53" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name="pts" typeId="points" value="260.0"/>
+        <cost name="pts" typeId="points" value="240.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="06c6-66f6-734b-4d58" name="Orghotts Daemonspew" publicationId="6894-a70d-pubN65537" page="95" hidden="false" collective="false" import="true" type="unit">
@@ -976,7 +978,7 @@
         <entryLink id="fe0c-90cd-139e-da73" name="General" hidden="false" collective="false" import="true" targetId="cb83-a378-d442-0e53" type="selectionEntry"/>
       </entryLinks>
       <costs>
-        <cost name="pts" typeId="points" value="260.0"/>
+        <cost name="pts" typeId="points" value="240.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="bd67-6671-f5c0-61f3" name="Gutrot Spume" publicationId="6894-a70d-pubN65537" page="101" hidden="false" collective="false" import="true" type="unit">
@@ -1174,21 +1176,6 @@
     </selectionEntry>
     <selectionEntry id="836e-91bb-9065-5b5c" name="Putrid Blightkings" publicationId="6894-a70d-pubN65537" page="102" hidden="false" collective="false" import="true" type="unit">
       <modifiers>
-        <modifier type="decrement" field="points" value="160">
-          <conditions>
-            <condition field="selections" scope="836e-91bb-9065-5b5c" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="13d4-a001-17b5-05b4" type="greaterThan"/>
-          </conditions>
-        </modifier>
-        <modifier type="increment" field="points" value="160">
-          <repeats>
-            <repeat field="selections" scope="836e-91bb-9065-5b5c" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="13d4-a001-17b5-05b4" repeats="1" roundUp="false"/>
-          </repeats>
-        </modifier>
-        <modifier type="decrement" field="points" value="60">
-          <conditions>
-            <condition field="selections" scope="836e-91bb-9065-5b5c" value="4.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="13d4-a001-17b5-05b4" type="equalTo"/>
-          </conditions>
-        </modifier>
         <modifier type="set-primary" field="category" value="065e-fda7-fd27-1f40">
           <conditions>
             <condition field="selections" scope="ancestor" value="0.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" childId="78f3-8a59-699a-61e8" type="instanceOf"/>
@@ -1229,12 +1216,19 @@
       </categoryLinks>
       <selectionEntries>
         <selectionEntry id="13d4-a001-17b5-05b4" name="5 Putrid Blightknigs" hidden="false" collective="false" import="true" type="model">
+          <modifiers>
+            <modifier type="decrement" field="points" value="15.0">
+              <conditions>
+                <condition field="selections" scope="836e-91bb-9065-5b5c" value="4.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="model" type="equalTo"/>
+              </conditions>
+            </modifier>
+          </modifiers>
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="6bf1-2cf4-fb84-f92c" type="min"/>
             <constraint field="selections" scope="parent" value="4.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="6cdc-61c6-7f48-bb42" type="max"/>
           </constraints>
           <costs>
-            <cost name="pts" typeId="points" value="0.0"/>
+            <cost name="pts" typeId="points" value="140.0"/>
           </costs>
         </selectionEntry>
         <selectionEntry id="7657-f0c1-8ad0-908a" name="Icon Bearer" hidden="false" collective="false" import="true" type="upgrade">
@@ -1269,7 +1263,7 @@
         </selectionEntry>
       </selectionEntries>
       <costs>
-        <cost name="pts" typeId="points" value="160.0"/>
+        <cost name="pts" typeId="points" value="0.0"/>
       </costs>
     </selectionEntry>
     <selectionEntry id="66c2-47c1-e76e-75da" name="Allegiance" hidden="false" collective="false" import="true" type="upgrade">
@@ -1341,7 +1335,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="1ad3-7240-0cb4-8be3" name="1 Great Unclean One (Thrombolhox the Giving)" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="1ad3-7240-0cb4-8be3" name="1 Great Unclean One (Thrombolhox the Giving)" hidden="false" collective="false" import="true" defaultSelectionEntryId="3bdc-1a9b-cc29-1dfb">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="35b8-5ce4-5b9b-6e9c" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="7cb0-1319-79c9-6556" type="min"/>
@@ -1354,7 +1348,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="f2ae-0226-ebaf-5458" name="2-7 Tallybands of Nurgle" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="f2ae-0226-ebaf-5458" name="2-7 Tallybands of Nurgle" hidden="false" collective="false" import="true" defaultSelectionEntryId="8e4b-ca5a-2f07-fcd0">
           <constraints>
             <constraint field="selections" scope="parent" value="7.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5d27-6ce1-7755-dd3e" type="max"/>
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5f27-3c7c-7c5b-4d48" type="min"/>
@@ -1678,7 +1672,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="620b-48a3-9581-3ba9" name="1 Horticulux Slimux" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="620b-48a3-9581-3ba9" name="1 Horticulux Slimux" hidden="false" collective="false" import="true" defaultSelectionEntryId="8209-6372-7aa5-cdcb">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e9a8-4c69-cf68-9c27" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="46fd-3c46-0979-4204" type="min"/>
@@ -1691,7 +1685,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="0399-d53e-0d37-e047" name="3 Beasts of Nurgle" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="0399-d53e-0d37-e047" name="3 Beasts of Nurgle" hidden="false" collective="false" import="true" defaultSelectionEntryId="759c-a56d-c769-21c5">
           <constraints>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d9b5-bea6-68cf-0fd1" type="max"/>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="273d-9cdf-d997-4dad" type="min"/>
@@ -1737,7 +1731,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="5b3e-13dd-9054-d23f" name="1 Plague Cyst" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="5b3e-13dd-9054-d23f" name="1 Plague Cyst" hidden="false" collective="false" import="true" defaultSelectionEntryId="0950-cd0e-4e4e-6dfe">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a0f-fcae-2016-6b5a" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9d65-a071-d40d-20bd" type="min"/>
@@ -1870,7 +1864,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="f448-1b90-a13a-41d6" name="1 Lord of Plagues" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="f448-1b90-a13a-41d6" name="1 Lord of Plagues" hidden="false" collective="false" import="true" defaultSelectionEntryId="90af-12c6-7d2c-9a0b">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="3f65-d7a6-abb4-0526" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8ea6-2280-9cdd-0a1d" type="min"/>
@@ -1973,7 +1967,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="402e-0e24-0859-d50e" name="1 Lord of Blights" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="402e-0e24-0859-d50e" name="1 Lord of Blights" hidden="false" collective="false" import="true" defaultSelectionEntryId="b1b8-4dde-abd1-5ce6">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="948f-7a85-89fe-53ce" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="321e-cbf0-12b8-28c5" type="min"/>
@@ -2040,7 +2034,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="3547-5a62-a888-9a8f" name="1 Lord of Afflictions" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="3547-5a62-a888-9a8f" name="1 Lord of Afflictions" hidden="false" collective="false" import="true" defaultSelectionEntryId="428a-5c17-6b82-06d3">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0419-d7b1-677b-77c4" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="528f-2298-b935-f3f4" type="min"/>
@@ -2143,7 +2137,7 @@
           <characteristics>
             <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">Wounds Suffered</characteristic>
             <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">Move</characteristic>
-            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">Curshing Jaws</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">Crushing Jaws</characteristic>
             <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">Befouled Bulk</characteristic>
           </characteristics>
         </profile>
@@ -2484,7 +2478,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="3931-9e5a-9267-21bc" name="1 unit of Bile Troggoths" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="3931-9e5a-9267-21bc" name="1 unit of Bile Troggoths" hidden="false" collective="false" import="true" defaultSelectionEntryId="3b1b-e86f-c3a3-619b">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4ff1-12b6-0021-edfa" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5a6c-660c-92ec-ed30" type="min"/>
@@ -2493,7 +2487,7 @@
             <entryLink id="3b1b-e86f-c3a3-619b" name="Bile Troggoths" hidden="false" collective="false" import="true" targetId="d0a3-8e1b-a66f-ae4a" type="selectionEntry"/>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="30fc-f59a-bc7e-18c6" name="1 Gigantic Chaos Spawn" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="30fc-f59a-bc7e-18c6" name="1 Gigantic Chaos Spawn" hidden="false" collective="false" import="true" defaultSelectionEntryId="f468-b6ba-c3f8-ef98">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1b09-ebe6-6bbe-db87" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d8e1-cdca-0d91-dfe5" type="min"/>
@@ -2506,7 +2500,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="cffe-abe6-69cd-7de1" name="1 Kayzk the Befouled" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="cffe-abe6-69cd-7de1" name="1 Kayzk the Befouled" hidden="false" collective="false" import="true" defaultSelectionEntryId="0ba2-4be1-9f01-4b34">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="97ee-4cab-693b-1ea8" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e95-1949-e2ef-7fc2" type="min"/>
@@ -2515,7 +2509,7 @@
             <entryLink id="0ba2-4be1-9f01-4b34" name="Kayzk the Befouled" hidden="false" collective="false" import="true" targetId="4a59-0040-d9db-e1ca" type="selectionEntry"/>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="1a60-c75f-5976-2fad" name="3 units of Plague Ogors" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="1a60-c75f-5976-2fad" name="3 units of Plague Ogors" hidden="false" collective="false" import="true" defaultSelectionEntryId="4cb8-8913-ac6e-f867">
           <constraints>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="75db-7ba6-805a-5b04" type="max"/>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="af73-1abf-b8a9-946c" type="min"/>
@@ -2524,7 +2518,7 @@
             <entryLink id="4cb8-8913-ac6e-f867" name="Plague Ogors" hidden="false" collective="false" import="true" targetId="922f-b12d-0144-bd10" type="selectionEntry"/>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="8d2a-0b71-9b61-d4fc" name="1 Tamurkhan the Maggot Lord" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="8d2a-0b71-9b61-d4fc" name="1 Tamurkhan the Maggot Lord" hidden="false" collective="false" import="true" defaultSelectionEntryId="cb97-43cf-8bec-8067">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="5f11-aac9-febe-a16a" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2d3f-96dd-e558-2310" type="min"/>
@@ -2561,7 +2555,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="7b59-2871-f303-86a2" name="3 units of Daemon Pox Riders of Nurgle" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="7b59-2871-f303-86a2" name="3 units of Daemon Pox Riders of Nurgle" hidden="false" collective="false" import="true" defaultSelectionEntryId="6b75-5011-ba23-fcca">
           <constraints>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ec86-64a1-3cab-ae56" type="max"/>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="155a-9f5a-12e4-de04" type="min"/>
@@ -2570,7 +2564,7 @@
             <entryLink id="6b75-5011-ba23-fcca" name="Daemon Pox Riders of Nurgle" hidden="false" collective="false" import="true" targetId="71b3-bfaf-29ff-0d6f" type="selectionEntry"/>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="2d08-df06-10ad-49eb" name="2-3 units of Daemon Plague Toads of Nurgle" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="2d08-df06-10ad-49eb" name="2-3 units of Daemon Plague Toads of Nurgle" hidden="false" collective="false" import="true" defaultSelectionEntryId="e4b5-de1d-0eb7-993d">
           <constraints>
             <constraint field="selections" scope="parent" value="3.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b28c-1128-5fb9-7649" type="max"/>
             <constraint field="selections" scope="parent" value="2.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="2aa5-b2bf-a18a-0feb" type="min"/>
@@ -2790,7 +2784,7 @@
         </selectionEntry>
       </selectionEntries>
       <selectionEntryGroups>
-        <selectionEntryGroup id="01de-2eab-8918-9cb0" name="1 Horticulux Slimux" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="01de-2eab-8918-9cb0" name="1 Horticulux Slimux" hidden="false" collective="false" import="true" defaultSelectionEntryId="6d97-6fd1-0e1b-20bc">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="466f-198c-d276-cf59" type="max"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6705-75db-228e-6baf" type="min"/>
@@ -2843,6 +2837,164 @@
           </entryLinks>
         </selectionEntryGroup>
       </selectionEntryGroups>
+      <costs>
+        <cost name="pts" typeId="points" value="0.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="84e0-0f45-4ffd-0732" name="Fecula Flyblown" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="e0c9-30af-40fd-13d8" value="1.0">
+          <conditions>
+            <condition field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="493b-ff80-f461-ff03" type="greaterThan"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="4f4f-8e5c-0a27-1639" type="max"/>
+        <constraint field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="e0c9-30af-40fd-13d8" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0c96-4609-9546-a06a" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="0ac0-748a-e19d-6330" name="Fecula Flyblown" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">7</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="90c5-56fa-9305-ed15" name="Blessed with Vitality" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
+          <characteristics>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Roll a dice each time this model successfully casts a spell and it is not unbound. On a 4+, you can heal 1 wound allocated to this model.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="18fe-efbe-cff6-ec95" name="Stream of Corruption" hidden="false" typeId="2e81-5e22-c6e1-73cb" typeName="Spell">
+          <characteristics>
+            <characteristic name="Casting Value" typeId="2508-b604-1258-a920">6</characteristic>
+            <characteristic name="Description" typeId="76ff-781d-b8e6-5f27">Pick 1 enemy unit within 7&quot; of the caster and visible to them. That unit suffers 3 mortal wounds.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="7454-714d-009b-f068" name="Fecula Flyblown" hidden="false" typeId="f55d-ee3a-1597-110f" typeName="Magic">
+          <characteristics>
+            <characteristic name="Cast/Unbind" typeId="8294-f605-2c0f-8f92">1/1</characteristic>
+            <characteristic name="Spells Known" typeId="dc9c-47d3-6931-859c">Arcane Bolt, Mystic Shield, Stream of Corruption</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="b68d-1c53-0516-d5eb" name="Retchling" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
+          <characteristics>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Once per battle, in your hero phase, you can choose for this model to channel the power of its familiar. If you do so, this model can attempt to cast 1 additional spell that phase.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="ec27-f681-779c-288e" name="CHAOS" hidden="false" targetId="7cdd-80ea-cbeb-8e16" primary="false"/>
+        <categoryLink id="9118-5736-80ae-ef1f" name="NURGLE" hidden="false" targetId="dd77-19a5-28eb-cbec" primary="false"/>
+        <categoryLink id="d3ec-c144-a3d0-6c17" name="ROTBRINGER" hidden="false" targetId="1547-93ca-6319-42ba" primary="false"/>
+        <categoryLink id="87b0-eac2-ae07-be9a" name="HERO" hidden="false" targetId="4e0e-664d-51ea-0929" primary="false"/>
+        <categoryLink id="b598-101e-7d91-ace3" name="WIZARD" hidden="false" targetId="4f53-8230-2f02-9639" primary="false"/>
+        <categoryLink id="dbed-a2ea-f2de-e171" name="SORCERER" hidden="false" targetId="d268-016d-0dd0-54e1" primary="false"/>
+        <categoryLink id="9a2c-9890-5025-6079" name="New CategoryLink" hidden="false" targetId="6c6b-e787-f9b8-a510" primary="true"/>
+        <categoryLink id="fcbf-edb1-e4e1-b19e" name="MORTAL" hidden="false" targetId="a934-6d15-9932-b7ea" primary="false"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="bff0-089e-c27b-fe50" name="Rotwood Staff" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1777-9280-b505-028b" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4ff1-06d7-dbce-8e4d" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="900f-1e73-465e-de65" name="Rotwood Staff" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">2&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">D3</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
+      <costs>
+        <cost name="pts" typeId="points" value="180.0"/>
+      </costs>
+    </selectionEntry>
+    <selectionEntry id="493b-ff80-f461-ff03" name="The Wurmspat" hidden="false" collective="false" import="true" type="unit">
+      <modifiers>
+        <modifier type="set" field="fbb2-815a-9c5c-11fe" value="1.0">
+          <conditions>
+            <condition field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" childId="84e0-0f45-4ffd-0732" type="greaterThan"/>
+          </conditions>
+        </modifier>
+      </modifiers>
+      <constraints>
+        <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="8005-33f8-e112-c7d1" type="max"/>
+        <constraint field="selections" scope="roster" value="0.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="fbb2-815a-9c5c-11fe" type="min"/>
+        <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8c50-99fe-0f1e-c503" type="max"/>
+      </constraints>
+      <profiles>
+        <profile id="bb2f-5b76-4f2f-5477" name="The Wurmspat" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
+          <characteristics>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="db0b-e693-ad78-77f2" name="Festering Bodyguards" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
+          <characteristics>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Roll a dice before you allocate a wound or mortal wound to a friendly FECULA FLYBLOWN while she is within 3&quot; of this unit. On a 4+, that wound or mortal wound is allocated to this unit instead of FECULA FLYBLOWN.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="47bf-d9cc-170f-6741" name="Virulent Discharge" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
+          <characteristics>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In your hero phase, roll a dice for each unit that is within 3&quot; of any friendly units with this ability. On a 6, that unit suffers D3 mortal wounds. If the unit has the NURGLE keyword, heal D3 wounds allocated to the unit instead.</characteristic>
+          </characteristics>
+        </profile>
+        <profile id="5d01-8750-8888-3a7e" name="Blighted Weapons" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
+          <characteristics>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">If the unmodified hit roll for an attack made with this unit’s Blighted Weapons is 6, that attack scores D6 hits on the target instead of 1. Make a wound and save roll for each hit.</characteristic>
+          </characteristics>
+        </profile>
+      </profiles>
+      <categoryLinks>
+        <categoryLink id="5d31-90fa-a452-4472" name="CHAOS" hidden="false" targetId="7cdd-80ea-cbeb-8e16" primary="false"/>
+        <categoryLink id="0da9-6f8e-ec83-7ae4" name="NURGLE" hidden="false" targetId="dd77-19a5-28eb-cbec" primary="false"/>
+        <categoryLink id="c357-6707-49b5-e062" name="ROTBRINGER" hidden="false" targetId="1547-93ca-6319-42ba" primary="false"/>
+        <categoryLink id="09bb-7ee6-73c5-7155" name="WIZARD" hidden="false" targetId="4f53-8230-2f02-9639" primary="false"/>
+        <categoryLink id="fae0-97fa-567c-2f36" name="SORCERER" hidden="false" targetId="d268-016d-0dd0-54e1" primary="false"/>
+        <categoryLink id="8502-d430-91dc-33c1" name="MORTAL" hidden="false" targetId="a934-6d15-9932-b7ea" primary="false"/>
+        <categoryLink id="430b-d9c3-ffa0-afbc" name="New CategoryLink" hidden="false" targetId="065e-fda7-fd27-1f40" primary="true"/>
+      </categoryLinks>
+      <selectionEntries>
+        <selectionEntry id="5d84-623c-554f-9d57" name="Blighted Weapon" hidden="false" collective="false" import="true" type="upgrade">
+          <constraints>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="203d-5d58-8a55-76d2" type="min"/>
+            <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e4aa-f8bc-195a-bc2b" type="max"/>
+          </constraints>
+          <profiles>
+            <profile id="a074-d990-c227-6b14" name="Blighted Weapon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
+              <characteristics>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+              </characteristics>
+            </profile>
+          </profiles>
+          <costs>
+            <cost name="pts" typeId="points" value="0.0"/>
+          </costs>
+        </selectionEntry>
+      </selectionEntries>
       <costs>
         <cost name="pts" typeId="points" value="0.0"/>
       </costs>

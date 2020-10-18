@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<catalogue id="7e5a-f2b2-2dfb-00f3" name="秩序 - Ironweld Arsenal" revision="1" battleScribeVersion="2.03" authorName="https://github.com/BSData-CHN/WH-AOS-Chinese-Localization" authorContact="@BSData-CHN" authorUrl="https://github.com/BSData-CHN/WH-AOS-Chinese-Localization" library="false" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="25" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
+<catalogue id="7e5a-f2b2-2dfb-00f3" name="Order - Ironweld Arsenal" revision="15" battleScribeVersion="2.03" authorName="https://gitter.im/BSData/warhammer-age-of-sigmar" authorContact="@BSData" authorUrl="https://github.com/BSData/warhammer-age-of-sigmar" library="false" gameSystemId="e51d-b1a3-75fc-dc33" gameSystemRevision="25" xmlns="http://www.battlescribe.net/schema/catalogueSchema">
   <publications>
-    <publication id="7e5a-f2b2-pubN65537" name="大阵营: 秩序"/>
+    <publication id="7e5a-f2b2-pubN65537" name="Grand Alliance: Order"/>
   </publications>
   <profileTypes>
     <profileType id="0ef1-501e-70bd-b91e" name="Crew Table">
@@ -28,7 +28,7 @@
     <categoryEntry id="2308-7db2-829e-94b3" name="HUMAN" hidden="false"/>
   </categoryEntries>
   <entryLinks>
-    <entryLink id="c84a-e436-be0f-4adc" name="阵营" hidden="false" collective="false" import="true" targetId="42ff-7909-64d2-1868" type="selectionEntry">
+    <entryLink id="c84a-e436-be0f-4adc" name="Allegiance" hidden="false" collective="false" import="true" targetId="42ff-7909-64d2-1868" type="selectionEntry">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditions>
@@ -65,7 +65,7 @@
         <categoryLink id="e3c9-a775-b615-19a1" name="New CategoryLink" hidden="false" targetId="065e-fda7-fd27-1f40" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="616d-bab0-4863-9813" name="Helblaster Volly Gun" hidden="false" collective="false" import="true" targetId="4fca-ba5d-d64c-a20e" type="selectionEntry">
+    <entryLink id="616d-bab0-4863-9813" name="Helblaster Volley Gun" hidden="false" collective="false" import="true" targetId="4fca-ba5d-d64c-a20e" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="efe1-844e-3324-495d" name="New CategoryLink" hidden="false" targetId="1d26-07fc-6a66-d73e" primary="true"/>
       </categoryLinks>
@@ -85,30 +85,30 @@
         <categoryLink id="90a3-3cff-73f9-f407" name="New CategoryLink" hidden="false" targetId="fa0c-9044-2568-fa02" primary="true"/>
       </categoryLinks>
     </entryLink>
-    <entryLink id="7e96-3701-451d-fcd7" name="炮兵 Detachment" hidden="false" collective="false" import="true" targetId="0d18-3b48-d14a-0b7a" type="selectionEntry">
+    <entryLink id="7e96-3701-451d-fcd7" name="Artillery Detachment" hidden="false" collective="false" import="true" targetId="0d18-3b48-d14a-0b7a" type="selectionEntry">
       <categoryLinks>
         <categoryLink id="8f50-e6cf-8acc-ad38" name="New CategoryLink" hidden="false" targetId="be17-6bbd-b857-3f43" primary="true"/>
       </categoryLinks>
     </entryLink>
   </entryLinks>
   <sharedSelectionEntries>
-    <selectionEntry id="42ff-7909-64d2-1868" name="阵营" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="42ff-7909-64d2-1868" name="Allegiance" hidden="false" collective="false" import="true" type="unit">
       <constraints>
         <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="0eaf-52fd-9d23-122e" type="min"/>
         <constraint field="selections" scope="force" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="62ee-9c51-a1ef-9ca5" type="max"/>
       </constraints>
       <selectionEntryGroups>
-        <selectionEntryGroup id="5a85-5973-ce06-8949" name="阵营" hidden="false" collective="false" import="true" defaultSelectionEntryId="00b6-f9a7-44fe-1b17">
+        <selectionEntryGroup id="5a85-5973-ce06-8949" name="Allegiance" hidden="false" collective="false" import="true" defaultSelectionEntryId="00b6-f9a7-44fe-1b17">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="f275-a9cb-24ac-07d0" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="false" includeChildSelections="false" includeChildForces="false" id="b172-59ef-67e4-e184" type="max"/>
           </constraints>
           <selectionEntries>
-            <selectionEntry id="00b6-f9a7-44fe-1b17" name="阵营: Order" hidden="false" collective="false" import="true" type="upgrade">
+            <selectionEntry id="00b6-f9a7-44fe-1b17" name="Allegiance: Order" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
-                <profile id="5517-e125-4166-5ba3" name="Defiant Avengers" hidden="false" typeId="c137-4d1f-9d1a-524d" typeName="战斗特性">
+                <profile id="5517-e125-4166-5ba3" name="Defiant Avengers" hidden="false" typeId="c137-4d1f-9d1a-524d" typeName="Battle Trait">
                   <characteristics>
-                    <characteristic name="战斗特性细节" typeId="9fdd-b4b1-5f7a-0970">You can re-roll battleshock tests for friendly ORDER units in the battleshock phase.</characteristic>
+                    <characteristic name="Battle Trait Details" typeId="9fdd-b4b1-5f7a-0970">You can re-roll battleshock tests for friendly ORDER units in the battleshock phase.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -125,70 +125,70 @@
     </selectionEntry>
     <selectionEntry id="fa71-607c-5cd6-3075" name="Cannon" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="d9e0-8d30-87f9-e796" name="Cannon" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="d9e0-8d30-87f9-e796" name="Cannon" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">*</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">4</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">-</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">*</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">-</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="2646-118c-eff6-94ba" name="Crew0" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1&quot;</characteristic>
             <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">Move</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">Cannon Shell</characteristic>
           </characteristics>
         </profile>
         <profile id="a266-2ba3-0de8-66cc" name="Crew1" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">2</characteristic>
           </characteristics>
         </profile>
         <profile id="0898-943f-6e73-1ad5" name="Crew2" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">2</characteristic>
           </characteristics>
         </profile>
         <profile id="a6db-efe5-a4ae-0d48" name="Crew3" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1 model</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">1</characteristic>
           </characteristics>
         </profile>
         <profile id="3984-aaa7-fb22-6b54" name="Crew4" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">没有模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0寸</characteristic>
-            <characteristic name="Variable3" typeId="0491-444f-6247-5164">0寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">No models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0&quot;</characteristic>
+            <characteristic name="Variable3" typeId="0491-444f-6247-5164">0&quot;</characteristic>
           </characteristics>
         </profile>
-        <profile id="b3bf-1c0d-11c5-d58c" name="Duardin 炮兵" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="b3bf-1c0d-11c5-d58c" name="Duardin Artillery" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">A Cannon can only move if its Crew are within 1寸 at the start of the movement phase.  If its Crew are within 1寸 of the Cannon in the 射击阶段, they can fire the 战争机械.  The 战争机械 cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1寸 of their 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">A Cannon can only move if its Crew are within 1&quot; at the start of the movement phase.  If its Crew are within 1&quot; of the Cannon in the shooting phase, they can fire the war machine.  The war machine cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1&quot; of their war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="f56b-adb4-9122-3d63" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="f56b-adb4-9122-3d63" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">4</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">1</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">6</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
           </characteristics>
         </profile>
-        <profile id="6865-f5a1-ad3e-8e63" name="Explosive Shells" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="6865-f5a1-ad3e-8e63" name="Explosive Shells" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the damage inflicted by a Cannon Shell if the target 单位 has 10 or more models.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the damage inflicted by a Cannon Shell if the target unit has 10 or more models.</characteristic>
           </characteristics>
         </profile>
-        <profile id="8e66-cab7-7890-b1b3" name="Rune of Accuracy" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="8e66-cab7-7890-b1b3" name="Rune of Accuracy" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll failed hit rolls when firing a Cannon Shell if there is an ENGINEER from your army within 1寸 of the 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll failed hit rolls when firing a Cannon Shell if there is an ENGINEER from your army within 1&quot; of the war machine.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -204,15 +204,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1cd9-2572-83cc-eaf9" type="max"/>
           </constraints>
           <profiles>
-            <profile id="9a3c-a2da-1cd2-31c3" name="Cannon Shell" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="9a3c-a2da-1cd2-31c3" name="Cannon Shell" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">32寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">2+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">D6</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">32&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">2+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">D6</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -226,15 +226,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="9915-7826-ea2c-77cc" type="min"/>
           </constraints>
           <profiles>
-            <profile id="e487-d72d-3101-a7a9" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="e487-d72d-3101-a7a9" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">5+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -247,77 +247,77 @@
         <cost name="pts" typeId="points" value="140.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="4fca-ba5d-d64c-a20e" name="Helblaster Volly Gun" hidden="false" collective="false" import="true" type="unit">
+    <selectionEntry id="4fca-ba5d-d64c-a20e" name="Helblaster Volley Gun" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="eb7b-4d27-44cc-a8d6" name="Helblaster Volly Gun" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="eb7b-4d27-44cc-a8d6" name="Helblaster Volley Gun" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">*</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">4</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">-</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">*</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">-</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="cd1d-e53d-5027-a809" name="Crew0" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1&quot;</characteristic>
             <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">Move</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">Volley of Shots</characteristic>
           </characteristics>
         </profile>
         <profile id="15cd-b1bc-bf70-7be1" name="Crew1" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">3+</characteristic>
           </characteristics>
         </profile>
         <profile id="35d5-3005-2d51-6a8b" name="Crew2" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="6fd0-1bc4-6159-b89b" name="Crew3" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1 model</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">5+</characteristic>
           </characteristics>
         </profile>
         <profile id="13c0-ff2c-3a2c-ab10" name="Crew4" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">没有模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">No models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">-</characteristic>
           </characteristics>
         </profile>
-        <profile id="25a3-8c5d-8ea6-89c4" name="Point Blank" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="25a3-8c5d-8ea6-89c4" name="Point Blank" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can add 1 to hit rolls for this model&apos;s Volley of Shots if the target 单位 is within 13寸.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can add 1 to hit rolls for this model&apos;s Volley of Shots if the target unit is within 13&quot;.</characteristic>
           </characteristics>
         </profile>
-        <profile id="341d-446c-abf2-c847" name="Crewed 炮兵" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="341d-446c-abf2-c847" name="Crewed Artillery" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">A Helblaster Volley Gun can only move if its Crew are within 1寸 at the start of the movement phase.  If its Crew are within 1寸 of the Volley Gun in the 射击阶段, they can fire the 战争机械.  The 战争机械 cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1寸 of their 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">A Helblaster Volley Gun can only move if its Crew are within 1&quot; at the start of the movement phase.  If its Crew are within 1&quot; of the Volley Gun in the shooting phase, they can fire the war machine.  The war machine cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1&quot; of their war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="c0c7-63d6-78a1-30c1" name="Helblaster Volley" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="c0c7-63d6-78a1-30c1" name="Helblaster Volley" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">In the 射击阶段 the Helblaster Volley Gun&apos;s Crew can attempt to load and fire 1, 2 or 3 gun decks.  If they load 2 gun decks, the 战争机械 makes 2D6 attacks when it fires its Volley of Shots instead of D6, and if they loaded 3 gun decks, it will make 3D6 attacks.  However, if any doubles are rolled when determining how many attacks are made when firing a Volley of Shot, the Helblaster Volley Gun jams and no shots are fired this phase.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In the shooting phase the Helblaster Volley Gun&apos;s Crew can attempt to load and fire 1, 2 or 3 gun decks.  If they load 2 gun decks, the war machine makes 2D6 attacks when it fires its Volley of Shots instead of D6, and if they loaded 3 gun decks, it will make 3D6 attacks.  However, if any doubles are rolled when determining how many attacks are made when firing a Volley of Shot, the Helblaster Volley Gun jams and no shots are fired this phase.</characteristic>
           </characteristics>
         </profile>
-        <profile id="abf6-f523-5912-35dc" name="Working Like Clockwork" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="abf6-f523-5912-35dc" name="Working Like Clockwork" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll all the dice when determing how many attacks are made with a Volley of Shots if there is an ENGINEER from your army within 1寸 of this 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll all the dice when determining how many attacks are made with a Volley of Shots if there is an ENGINEER from your army within 1&quot; of this war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="4b99-c552-b8dd-045b" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="4b99-c552-b8dd-045b" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">5寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">1</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">5</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -333,15 +333,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="4a75-17d8-ad22-6a9c" type="max"/>
           </constraints>
           <profiles>
-            <profile id="6048-a3c5-7c14-f9f2" name="Volley of Shots" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="6048-a3c5-7c14-f9f2" name="Volley of Shots" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">26寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">*</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">26&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -355,15 +355,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f286-0cf9-d76b-bd4b" type="min"/>
           </constraints>
           <profiles>
-            <profile id="70b7-f13a-5dce-bfa4" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="70b7-f13a-5dce-bfa4" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">5+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">5+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -378,75 +378,75 @@
     </selectionEntry>
     <selectionEntry id="235c-8039-3c97-3403" name="Helstorm Rocket Battery" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="ef60-cb78-1a63-9754" name="Helstorm Rocket Battery" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="ef60-cb78-1a63-9754" name="Helstorm Rocket Battery" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">*</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">4</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">-</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">*</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">-</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="b7a5-ecac-7ff4-86a1" name="Crew0" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1&quot;</characteristic>
             <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">Move</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">Helstorm Rocket Salvo</characteristic>
           </characteristics>
         </profile>
         <profile id="de71-9450-27c7-dcfd" name="Crew1" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">D6</characteristic>
           </characteristics>
         </profile>
         <profile id="9948-8ece-0bdd-9450" name="Crew2" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">D3</characteristic>
           </characteristics>
         </profile>
         <profile id="6fd4-cda9-af50-edbc" name="Crew3" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1 model</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">1</characteristic>
           </characteristics>
         </profile>
         <profile id="8870-26a7-fdb7-c92a" name="Crew4" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">没有模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">No models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">0</characteristic>
           </characteristics>
         </profile>
-        <profile id="65df-d115-592e-a47a" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="65df-d115-592e-a47a" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">5寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">1</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">5</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">5</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
           </characteristics>
         </profile>
-        <profile id="0fe9-e8b7-e8f1-74db" name="Crewed 炮兵" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="0fe9-e8b7-e8f1-74db" name="Crewed Artillery" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">A Helstorm Rocket Battery can only move if its Crew are within 1寸 at the start of the movement phase.  If its Crew are within 1寸 of the Rocket Battery in the 射击阶段, they can fire the 战争机械.  The 战争机械 cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1寸 of their 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">A Helstorm Rocket Battery can only move if its Crew are within 1&quot; at the start of the movement phase.  If its Crew are within 1&quot; of the Rocket Battery in the shooting phase, they can fire the war machine.  The war machine cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1&quot; of their war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="af02-5be3-591f-f6be" name="Arcing Ordinance" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="af02-5be3-591f-f6be" name="Arcing Ordinance" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">A Helstorm Rocket Battery can fire Helstorm Rocket Salvoes at units that are not visible to it.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">A Helstorm Rocket Battery can fire Helstorm Rocket Salvoes at units that are not visible to it.</characteristic>
           </characteristics>
         </profile>
-        <profile id="ea2f-50cb-d156-2565" name="Rocket Salvo" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="ea2f-50cb-d156-2565" name="Rocket Salvo" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">Before firing their 战争机械, a Helstorm Rocket Battery crew can choose to fire all their Rocket Salvoes at the same target.  If they do, you can add 1 to the hit rolls for the shots.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Before firing their war machine, a Helstorm Rocket Battery crew can choose to fire all their Rocket Salvoes at the same target.  If they do, you can add 1 to the hit rolls for the shots.</characteristic>
           </characteristics>
         </profile>
-        <profile id="79bc-c358-af2b-5ceb" name="I Meant to Hit That One, Honest" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="79bc-c358-af2b-5ceb" name="I Meant to Hit That One, Honest" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">If there is an ENGINEER from you army within 1寸 of this 战争机械 and you fail to hit with a Helstorm Rocket Salvo, you may pick a different 单位 within 10寸 of the original target and roll a dice; on a 6 that shot hits that 单位 instead.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">If there is an ENGINEER from you army within 1&quot; of this war machine and you fail to hit with a Helstorm Rocket Salvo, you may pick a different unit within 10&quot; of the original target and roll a dice; on a 6 that shot hits that unit instead.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -462,15 +462,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="6c0b-54a1-85c9-b36d" type="max"/>
           </constraints>
           <profiles>
-            <profile id="d696-638f-6fe3-4dd3" name="Helstorm Rocket Salvo" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="d696-638f-6fe3-4dd3" name="Helstorm Rocket Salvo" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">10-36寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">5+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">*</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">10-36&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">*</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -484,15 +484,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c6c0-24c6-77bc-ef3b" type="min"/>
           </constraints>
           <profiles>
-            <profile id="f7ae-0bc1-efbc-d7e5" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="f7ae-0bc1-efbc-d7e5" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">5+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">5+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -507,80 +507,80 @@
     </selectionEntry>
     <selectionEntry id="78de-b8b6-1fb0-daf7" name="Organ Gun" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="3586-4f6d-88bb-ac60" name="Organ Gun" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="3586-4f6d-88bb-ac60" name="Organ Gun" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">*</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">4</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">-</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">*</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">-</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="e6f4-ded6-f4bf-ee11" name="Crew0" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">Crew within 1&quot;</characteristic>
             <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">Move</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">Barrage of Shots</characteristic>
           </characteristics>
         </profile>
         <profile id="a940-f602-9db9-d57e" name="Crew1" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">3 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">4&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">3+</characteristic>
           </characteristics>
         </profile>
         <profile id="4bba-085e-fbdd-dbd9" name="Crew2" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">2 models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">3&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">4+</characteristic>
           </characteristics>
         </profile>
         <profile id="965b-af67-c18a-45b5" name="Crew3" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1个模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">1 model</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">2&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">5+</characteristic>
           </characteristics>
         </profile>
         <profile id="c94b-8e6a-9beb-3268" name="Crew4" hidden="false" typeId="0ef1-501e-70bd-b91e" typeName="Crew Table">
           <characteristics>
-            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">没有模型</characteristic>
-            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0寸</characteristic>
+            <characteristic name="Variable1" typeId="9f89-05b0-fc19-cd77">No models</characteristic>
+            <characteristic name="Variable2" typeId="eea3-778f-7278-aed6">0&quot;</characteristic>
             <characteristic name="Variable3" typeId="0491-444f-6247-5164">-</characteristic>
           </characteristics>
         </profile>
-        <profile id="4aca-f51a-f33b-2d23" name="Duardin 炮兵" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="4aca-f51a-f33b-2d23" name="Duardin Artillery" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">An Organ Gun can only move if its Crew are within 1寸 at the start of the movement phase.  If its Crew are within 1寸 of the Organ Gun in the 射击阶段, they can fire the 战争机械.  The 战争机械 cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1寸 of their 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">An Organ Gun can only move if its Crew are within 1&quot; at the start of the movement phase.  If its Crew are within 1&quot; of the Organ Gun in the shooting phase, they can fire the war machine.  The war machine cannot make charge moves, does not need to take battleshock tests and is unaffected by any attack or ability the uses Bravery.  The Crew are in cover while they are within 1&quot; of their war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="1954-c9c1-1683-81b0" name="Organ Fire" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="1954-c9c1-1683-81b0" name="Organ Fire" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">In the 射击阶段 the Organ Gun&apos;s Crew can load 1, 2, 3 or 4 barrels.  If they 2 or more barrels, roll a dice; if the result is equal to or greater than the number of loaded barrels, make one Barrage of Shots attack for each loaded barrel (roll separately to determine the number of Barrage of Shots attacks made for each barrel being fired).  However, if the result is less than the number of loaded barrels, the Organ Gun jams and no shots are fired this phase.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In the shooting phase the Organ Gun&apos;s Crew can load 1, 2, 3 or 4 barrels.  If they 2 or more barrels, roll a dice; if the result is equal to or greater than the number of loaded barrels, make one Barrage of Shots attack for each loaded barrel (roll separately to determine the number of Barrage of Shots attacks made for each barrel being fired).  However, if the result is less than the number of loaded barrels, the Organ Gun jams and no shots are fired this phase.</characteristic>
           </characteristics>
         </profile>
-        <profile id="7a79-231b-2dc6-f061" name="Rune of Forging" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="7a79-231b-2dc6-f061" name="Rune of Forging" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the dice rolled to see if an Organ Gun jams if there is an Engineer from your army within 1寸 of the 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the dice rolled to see if an Organ Gun jams if there is an Engineer from your army within 1&quot; of the war machine.</characteristic>
           </characteristics>
         </profile>
-        <profile id="f5a8-df22-cd01-386c" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="f5a8-df22-cd01-386c" name="Crew" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">4</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">1</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">6</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">1</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
           </characteristics>
         </profile>
-        <profile id="2ffe-4cd5-5ab8-ff81" name="Organ Fire" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="2ffe-4cd5-5ab8-ff81" name="Organ Fire" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">In the 射击阶段 the Organ Gun&apos;s Crew can load 1, 2, 3 or 4 barrels.  If they load 2 or more barrels, roll a dice; if the result is equal to or greater than the number of loaded barrels, make one Barrage of Shots attack for each loaded barrel (roll seperately to determine the number of Barrage of Shots attacks made for each barrel being fired).  However, if the result is less than the number of loaded barrels, the Organ Gun jams and no shots are fired in this phase.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In the shooting phase the Organ Gun&apos;s Crew can load 1, 2, 3 or 4 barrels.  If they load 2 or more barrels, roll a dice; if the result is equal to or greater than the number of loaded barrels, make one Barrage of Shots attack for each loaded barrel (roll separately to determine the number of Barrage of Shots attacks made for each barrel being fired).  However, if the result is less than the number of loaded barrels, the Organ Gun jams and no shots are fired in this phase.</characteristic>
           </characteristics>
         </profile>
-        <profile id="a7b8-b79b-a95a-114e" name="Rune of Forging" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="a7b8-b79b-a95a-114e" name="Rune of Forging" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the dice rolled to see if an Organ Gun jams if there is an ENGINEER from your army within 1寸 of the 战争机械.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll the dice rolled to see if an Organ Gun jams if there is an ENGINEER from your army within 1&quot; of the war machine.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -596,15 +596,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ba91-bfd2-aabf-2ab8" type="max"/>
           </constraints>
           <profiles>
-            <profile id="edf7-1972-15bc-e45c" name="Barrage of Shots" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="edf7-1972-15bc-e45c" name="Barrage of Shots" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">28寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">*</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">28&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">*</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -618,15 +618,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="b150-c3a4-d741-c8b4" type="min"/>
           </constraints>
           <profiles>
-            <profile id="babd-556c-dee2-2d18" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="babd-556c-dee2-2d18" name="Crew&apos;s Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">5+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -641,80 +641,80 @@
     </selectionEntry>
     <selectionEntry id="7857-7548-e623-8fa1" name="Steam Tank" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="ee63-bed4-fc04-06db" name="Steam Tank" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="ee63-bed4-fc04-06db" name="Steam Tank" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">*</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">12</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">8</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">*</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">12</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">8</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">3+</characteristic>
           </characteristics>
         </profile>
-        <profile id="4e71-9300-fbc1-5425" name="More Pressure!" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="4e71-9300-fbc1-5425" name="More Pressure!" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">In your 英雄阶段, the Steam Tank Commander can attempt to overpressure the Steam Tank&apos;s Boiler.  If he does, roll two dice.  If the total is less than the number of wounds the Steam Tank has suffered, valves start to crack and mechanisms break - the Steam Tank immediately suffers D3 mortal wounds.  Otherwise, the overpressure of the steam means that until your next here phase you can re-roll any random values for this model (with the exception of the Commander&apos;s Repeater Handgun, which isn&apos;t connected to the Steam Tank&apos;s boiler!).</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In your hero phase, the Steam Tank Commander can attempt to overpressure the Steam Tank&apos;s Boiler.  If he does, roll two dice.  If the total is less than the number of wounds the Steam Tank has suffered, valves start to crack and mechanisms break - the Steam Tank immediately suffers D3 mortal wounds.  Otherwise, the overpressure of the steam means that until your next here phase you can re-roll any random values for this model (with the exception of the Commander&apos;s Repeater Handgun, which isn&apos;t connected to the Steam Tank&apos;s boiler!).</characteristic>
           </characteristics>
         </profile>
-        <profile id="494c-82fa-13ae-b72b" name="Steel 巨兽" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="494c-82fa-13ae-b72b" name="Steel Behemoth" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">After a Steam Tanks completes a charge move, you may select an enemy 单位 within 1&quot;; that 单位 suffers D3 mortal wounds.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">After a Steam Tanks completes a charge move, you may select an enemy unit within 1&quot;; that unit suffers D3 mortal wounds.</characteristic>
           </characteristics>
         </profile>
-        <profile id="b98e-82d8-3c42-f185" name="Bouncing Cannon Balls" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="b98e-82d8-3c42-f185" name="Bouncing Cannon Balls" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">You can add 1 to hit rolls for a Steam Cannon if the target 单位 has 10 or more models.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can add 1 to hit rolls for a Steam Cannon if the target unit has 10 or more models.</characteristic>
           </characteristics>
         </profile>
-        <profile id="7b93-cd0f-1e5c-ec11" name="I&apos;ll Fix It" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="7b93-cd0f-1e5c-ec11" name="I&apos;ll Fix It" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">Instead of using the More Pressure! ability, the Steam Tank Commander can attempt to make repairs to the Steam Tank in your 英雄阶段.  If he does, roll a dice; on a 4 or more he repairs one wound.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Instead of using the More Pressure! ability, the Steam Tank Commander can attempt to make repairs to the Steam Tank in your hero phase.  If he does, roll a dice; on a 4 or more he repairs one wound.</characteristic>
           </characteristics>
         </profile>
-        <profile id="e43c-1db2-a5d2-1cdb" name="Wound0" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="e43c-1db2-a5d2-1cdb" name="Wound0" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">Wounds Suffered</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">Move</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">Steam Cannon</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">Steam Gun</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">Wounds Suffered</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">Move</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">Steam Cannon</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">Steam Gun</characteristic>
           </characteristics>
         </profile>
-        <profile id="c03b-13a9-36b1-2b6c" name="Wound1" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="c03b-13a9-36b1-2b6c" name="Wound1" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">2D6寸</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">30寸</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">0-2</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">2D6&quot;</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">30&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">2+</characteristic>
           </characteristics>
         </profile>
-        <profile id="4246-280c-94d2-97e4" name="Wound2" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="4246-280c-94d2-97e4" name="Wound2" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">2D6寸</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">24寸</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">3-4</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">2D6&quot;</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">24&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">3+</characteristic>
           </characteristics>
         </profile>
-        <profile id="3914-c094-d08f-1e11" name="Wound3" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="3914-c094-d08f-1e11" name="Wound3" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">D6寸</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">18寸</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">5-7</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">D6&quot;</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">18&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">4+</characteristic>
           </characteristics>
         </profile>
-        <profile id="ef45-2525-32a7-7df7" name="Wound4" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="ef45-2525-32a7-7df7" name="Wound4" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">D6寸</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">12寸</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">5+</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">8-9</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">D6&quot;</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">12&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">5+</characteristic>
           </characteristics>
         </profile>
-        <profile id="9b4b-c0f9-cb24-1fb2" name="Wound5" hidden="false" typeId="90d1-a434-348d-a861" typeName="损伤表">
+        <profile id="9b4b-c0f9-cb24-1fb2" name="Wound5" hidden="false" typeId="90d1-a434-348d-a861" typeName="Damage Table">
           <characteristics>
-            <characteristic name="变量 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
-            <characteristic name="变量 2" typeId="4cdd-1e03-530f-0ff7">D3寸</characteristic>
-            <characteristic name="变量 3" typeId="b1ea-56be-ba52-16e9">6寸</characteristic>
-            <characteristic name="变量 4" typeId="ad26-bf56-95c4-80f1">6+</characteristic>
+            <characteristic name="Variable 1" typeId="420a-645a-ab28-93a0">10+</characteristic>
+            <characteristic name="Variable 2" typeId="4cdd-1e03-530f-0ff7">D3&quot;</characteristic>
+            <characteristic name="Variable 3" typeId="b1ea-56be-ba52-16e9">6&quot;</characteristic>
+            <characteristic name="Variable 4" typeId="ad26-bf56-95c4-80f1">6+</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -732,15 +732,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="190c-2527-1d71-78bb" type="max"/>
           </constraints>
           <profiles>
-            <profile id="0dac-1e45-35d1-1dea" name="Steam Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="0dac-1e45-35d1-1dea" name="Steam Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">*</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2D6</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">*</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -754,15 +754,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a930-d6ac-bb82-0333" type="max"/>
           </constraints>
           <profiles>
-            <profile id="4598-c354-07e6-def2" name="Steam Cannon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="4598-c354-07e6-def2" name="Steam Cannon" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">*</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">2+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">D6</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">*</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">2+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-2</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">D6</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -776,15 +776,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="e533-1e8c-7206-ef45" type="max"/>
           </constraints>
           <profiles>
-            <profile id="263f-9a9b-0681-3d4a" name="Commander&apos;s Sword or Rod" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="263f-9a9b-0681-3d4a" name="Commander&apos;s Sword or Rod" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">5+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">4+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -798,15 +798,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ec5c-74b8-8dae-f791" type="max"/>
           </constraints>
           <profiles>
-            <profile id="e8d5-294c-b249-d99c" name="Crushing Wheels and Ironclad Bulk" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="e8d5-294c-b249-d99c" name="Crushing Wheels and Ironclad Bulk" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D6</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -820,15 +820,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="970f-eed3-1c8a-1207" type="max"/>
           </constraints>
           <profiles>
-            <profile id="dff7-76e3-9855-8fb9" name="Long Rifle" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="dff7-76e3-9855-8fb9" name="Long Rifle" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">30寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">3+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">30&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -842,15 +842,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="84ff-8770-d5a5-2343" type="max"/>
           </constraints>
           <profiles>
-            <profile id="f9b5-6b26-374b-dfe4" name="Repeater Handgun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="f9b5-6b26-374b-dfe4" name="Repeater Handgun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">14寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">14&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -865,17 +865,17 @@
     </selectionEntry>
     <selectionEntry id="d3de-79cc-8b26-6b05" name="Cogsmith" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="d465-da22-006d-75d3" name="Cogsmith" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="d465-da22-006d-75d3" name="Cogsmith" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">4寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">5</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">7</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">4&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">7</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">5+</characteristic>
           </characteristics>
         </profile>
-        <profile id="23e1-183e-075f-ad1a" name="Engineer" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="23e1-183e-075f-ad1a" name="Engineer" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">In your 英雄阶段, a Cogsmith can repair a single 战争机械 within 4寸.  That model repairs 1 wound.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">In your hero phase, a Cogsmith can repair a single WAR MACHINE within 4&quot;.  That model repairs 1 wound.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -894,15 +894,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d204-a3ad-3492-a091" type="max"/>
           </constraints>
           <profiles>
-            <profile id="7f64-273e-c6a4-1cdd" name="Cog Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="7f64-273e-c6a4-1cdd" name="Cog Axe" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">4+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -916,15 +916,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="27f3-7a80-42c8-6310" type="max"/>
           </constraints>
           <profiles>
-            <profile id="6db3-5113-8df2-dfbc" name="Grudge-Raker" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="6db3-5113-8df2-dfbc" name="Grudge-Raker" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">16寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -938,15 +938,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c0c3-b37c-9070-b18e" type="max"/>
           </constraints>
           <profiles>
-            <profile id="d0b7-9894-d564-43d6" name="Duardin Pistols" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="d0b7-9894-d564-43d6" name="Duardin Pistols" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">8寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">8&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -956,7 +956,7 @@
         </selectionEntry>
       </selectionEntries>
       <entryLinks>
-        <entryLink id="09ce-90fb-a77c-8e0f" name="主将" hidden="false" collective="false" import="true" targetId="74da-b1ad-ef54-a12d" type="selectionEntry"/>
+        <entryLink id="09ce-90fb-a77c-8e0f" name="General" hidden="false" collective="false" import="true" targetId="74da-b1ad-ef54-a12d" type="selectionEntry"/>
         <entryLink id="c086-4c04-4942-bda2" name="Artefacts" hidden="false" collective="false" import="true" targetId="d63c-900b-7eea-750d" type="selectionEntryGroup"/>
         <entryLink id="f54f-ea8c-73ab-bc6c" name="Command Traits" hidden="false" collective="false" import="true" targetId="6ef5-d85c-c089-3f02" type="selectionEntryGroup"/>
       </entryLinks>
@@ -964,7 +964,7 @@
         <cost name="pts" typeId="points" value="100.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="74da-b1ad-ef54-a12d" name="主将" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="74da-b1ad-ef54-a12d" name="General" hidden="false" collective="false" import="true" type="upgrade">
       <modifiers>
         <modifier type="set" field="hidden" value="true">
           <conditionGroups>
@@ -989,17 +989,17 @@
     </selectionEntry>
     <selectionEntry id="230d-997c-b9e9-bb51" name="Gunmaster" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="8f49-ec40-a73c-1ed2" name="Gunmaster" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="8f49-ec40-a73c-1ed2" name="Gunmaster" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">5寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">5</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">6</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">5&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">6+</characteristic>
           </characteristics>
         </profile>
-        <profile id="c111-20ce-caf7-a598" name="Range-finding Optics" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="c111-20ce-caf7-a598" name="Range-finding Optics" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">可以重投命中骰的1 for a Gunmaster in the 射击阶段 if he did not move in his preceding movement phase and there are no enemy models within 3寸 of him.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">You can re-roll hit rolls of 1 for a Gunmaster in the shooting phase if he did not move in his preceding movement phase and there are no enemy models within 3&quot; of him.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1018,15 +1018,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="8c4a-b35d-eb89-8b6e" type="max"/>
           </constraints>
           <profiles>
-            <profile id="d4fb-14e7-2a5a-8806" name="Artisan Pistol" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="d4fb-14e7-2a5a-8806" name="Artisan Pistol" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">9寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">3+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1040,15 +1040,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="301e-bcbc-2c4c-cd95" type="max"/>
           </constraints>
           <profiles>
-            <profile id="bc0d-7cdb-3c0b-f10f" name="Repeater Pistols" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="bc0d-7cdb-3c0b-f10f" name="Repeater Pistols" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">9寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">9&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1062,15 +1062,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="14bb-9a44-25fb-a27c" type="max"/>
           </constraints>
           <profiles>
-            <profile id="d9c5-38c0-2983-82f3" name="Engineer&apos;s Telescope or Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="d9c5-38c0-2983-82f3" name="Engineer&apos;s Telescope or Tools" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">5+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">2</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">5+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1084,15 +1084,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="f66f-e3df-49d4-84d4" type="max"/>
           </constraints>
           <profiles>
-            <profile id="ceec-e7ed-7ea4-fdda" name="Masterwork Long Rifle" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="ceec-e7ed-7ea4-fdda" name="Masterwork Long Rifle" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">30寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">3+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">30&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">1</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">2</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1102,7 +1102,7 @@
         </selectionEntry>
       </selectionEntries>
       <entryLinks>
-        <entryLink id="5e11-abcb-4106-3ab1" name="主将" hidden="false" collective="false" import="true" targetId="74da-b1ad-ef54-a12d" type="selectionEntry"/>
+        <entryLink id="5e11-abcb-4106-3ab1" name="General" hidden="false" collective="false" import="true" targetId="74da-b1ad-ef54-a12d" type="selectionEntry"/>
         <entryLink id="d2ba-6da4-5a84-f3dd" name="Artefacts" hidden="false" collective="false" import="true" targetId="d63c-900b-7eea-750d" type="selectionEntryGroup"/>
         <entryLink id="57ef-d01b-4611-8906" name="Command Traits" hidden="false" collective="false" import="true" targetId="6ef5-d85c-c089-3f02" type="selectionEntryGroup"/>
       </entryLinks>
@@ -1112,22 +1112,22 @@
     </selectionEntry>
     <selectionEntry id="8f0e-425f-9fe0-2ca5" name="Gyrobombers" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="e50a-b962-43ee-7a7d" name="Gyrobombers" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="e50a-b962-43ee-7a7d" name="Gyrobombers" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">12寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">5</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">6</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">12&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">5</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
-        <profile id="68e4-b8c5-5bec-5db2" name="Grudgebuster Bombs" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="68e4-b8c5-5bec-5db2" name="Grudgebuster Bombs" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">A 单位 of Gyrobombers can drop Grudgebuster Bombs as they fly over enemy units. To do so, pick one enemy 单位 that the Gyrobombers flew over in the movement phase. Then, roll one dice for each Gyrobomber in the 单位; each time you roll a 4 or more, the 单位 being bombed suffers D3 mortal wounds.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">A unit of Gyrobombers can drop Grudgebuster Bombs as they fly over enemy units. To do so, pick one enemy unit that the Gyrobombers flew over in the movement phase. Then, roll one dice for each Gyrobomber in the unit; each time you roll a 4 or more, the unit being bombed suffers D3 mortal wounds.</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="206b-15cc-8378-cec8" name="飞行" hidden="false" targetId="8e0c-cbe4-27be-8a30" type="profile"/>
+        <infoLink id="206b-15cc-8378-cec8" name="Fly" hidden="false" targetId="8e0c-cbe4-27be-8a30" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="179c-b50b-5450-a8d2" name="New CategoryLink" hidden="false" targetId="945b-2f5e-58f0-75e2" primary="false"/>
@@ -1143,15 +1143,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="811e-7d06-9a41-ecb5" type="max"/>
           </constraints>
           <profiles>
-            <profile id="a366-33f5-d83e-be20" name="Clattergun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="a366-33f5-d83e-be20" name="Clattergun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">20寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">4+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">20&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">4</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">4+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1165,15 +1165,15 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="1c1d-a46a-8d76-68c9" type="max"/>
           </constraints>
           <profiles>
-            <profile id="c132-fe34-0bc4-b725" name="Rotor Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+            <profile id="c132-fe34-0bc4-b725" name="Rotor Blades" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
               <characteristics>
-                <characteristic name="类型" typeId="655c-362e-a663-3e50">肉搏</characteristic>
-                <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">1寸</characteristic>
-                <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
-                <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">5+</characteristic>
-                <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">4+</characteristic>
-                <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-</characteristic>
-                <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                <characteristic name="Type" typeId="655c-362e-a663-3e50">Melee</characteristic>
+                <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">1&quot;</characteristic>
+                <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">D3</characteristic>
+                <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">5+</characteristic>
+                <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
+                <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-</characteristic>
+                <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
               </characteristics>
             </profile>
           </profiles>
@@ -1188,22 +1188,22 @@
     </selectionEntry>
     <selectionEntry id="42ff-8440-b970-a955" name="Gyrocopters" hidden="false" collective="false" import="true" type="unit">
       <profiles>
-        <profile id="f37b-eb19-0c21-f99f" name="Gyrocopters" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="unit">
+        <profile id="f37b-eb19-0c21-f99f" name="Gyrocopters" hidden="false" typeId="1960-ca8e-67ce-2014" typeName="Unit">
           <characteristics>
-            <characteristic name="移动力" typeId="8655-6213-2824-1752">14寸</characteristic>
-            <characteristic name="生命值" typeId="cd0e-fea6-411f-904d">4</characteristic>
-            <characteristic name="勇气值" typeId="0c85-bf79-836b-759e">6</characteristic>
-            <characteristic name="保护值" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
+            <characteristic name="Move" typeId="8655-6213-2824-1752">14&quot;</characteristic>
+            <characteristic name="Wounds" typeId="cd0e-fea6-411f-904d">4</characteristic>
+            <characteristic name="Bravery" typeId="0c85-bf79-836b-759e">6</characteristic>
+            <characteristic name="Save" typeId="f8dd-4f2a-8543-4f36">4+</characteristic>
           </characteristics>
         </profile>
-        <profile id="a7f2-2b7a-4678-ca8f" name="Guild Bombs" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+        <profile id="a7f2-2b7a-4678-ca8f" name="Guild Bombs" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
           <characteristics>
-            <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">Once per battle, a 单位 of Gyrocopters can drop their Guild Bombs.  To do so, pick one enemy 单位 that the Gyrocopters flew over in the movement phase. Then, roll two dice for each Gyrocopter in the 单位; each time you roll a 4 or more, the 单位 being bombed suffers a mortal wound.</characteristic>
+            <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">Once per battle, a unit of Gyrocopters can drop their Guild Bombs.  To do so, pick one enemy unit that the Gyrocopters flew over in the movement phase. Then, roll two dice for each Gyrocopter in the unit; each time you roll a 4 or more, the unit being bombed suffers a mortal wound.</characteristic>
           </characteristics>
         </profile>
       </profiles>
       <infoLinks>
-        <infoLink id="2dcd-f7fe-453f-6ce4" name="飞行" hidden="false" targetId="8e0c-cbe4-27be-8a30" type="profile"/>
+        <infoLink id="2dcd-f7fe-453f-6ce4" name="Fly" hidden="false" targetId="8e0c-cbe4-27be-8a30" type="profile"/>
       </infoLinks>
       <categoryLinks>
         <categoryLink id="c63e-3107-d63b-19e2" name="New CategoryLink" hidden="false" targetId="945b-2f5e-58f0-75e2" primary="false"/>
@@ -1213,7 +1213,7 @@
         <categoryLink id="96e0-9194-50e8-ef41" name="New CategoryLink" hidden="false" targetId="b970-b3bf-e1a4-a6fc" primary="false"/>
       </categoryLinks>
       <selectionEntryGroups>
-        <selectionEntryGroup id="0caf-019c-2f7c-45f6" name="武器" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="0caf-019c-2f7c-45f6" name="Weapons" hidden="false" collective="false" import="true">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="a6fe-e3b5-eae9-e8fd" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="0e67-dea1-808e-9664" type="max"/>
@@ -1221,15 +1221,15 @@
           <selectionEntries>
             <selectionEntry id="395b-68a6-6e95-22fd" name="Brimstone Gun" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
-                <profile id="05d7-e4d2-8459-0888" name="Brimstone Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+                <profile id="05d7-e4d2-8459-0888" name="Brimstone Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                    <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">16寸</characteristic>
-                    <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
-                    <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">3+</characteristic>
-                    <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">3+</characteristic>
-                    <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                    <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                    <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">16&quot;</characteristic>
+                    <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">3</characteristic>
+                    <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                    <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">3+</characteristic>
+                    <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                    <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1239,20 +1239,20 @@
             </selectionEntry>
             <selectionEntry id="18d1-4b99-d58b-4a43" name="Steam Gun" hidden="false" collective="false" import="true" type="upgrade">
               <profiles>
-                <profile id="8ee5-dba9-22e6-c931" name="Steam Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="武器">
+                <profile id="8ee5-dba9-22e6-c931" name="Steam Gun" hidden="false" typeId="96df-ab28-5d72-bbb3" typeName="Weapon">
                   <characteristics>
-                    <characteristic name="类型" typeId="655c-362e-a663-3e50">射击</characteristic>
-                    <characteristic name="攻击距离" typeId="ee32-7f8e-ccd7-b7b0">6寸</characteristic>
-                    <characteristic name="攻击次数" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
-                    <characteristic name="命中骰" typeId="87f2-fb99-33f9-7269">3+</characteristic>
-                    <characteristic name="造伤骰" typeId="8842-17f1-9794-4efc">4+</characteristic>
-                    <characteristic name="破甲" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
-                    <characteristic name="伤害" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
+                    <characteristic name="Type" typeId="655c-362e-a663-3e50">Missile</characteristic>
+                    <characteristic name="Range" typeId="ee32-7f8e-ccd7-b7b0">6&quot;</characteristic>
+                    <characteristic name="Attacks" typeId="0bd7-bded-a0e0-19a0">*</characteristic>
+                    <characteristic name="To Hit" typeId="87f2-fb99-33f9-7269">3+</characteristic>
+                    <characteristic name="To Wound" typeId="8842-17f1-9794-4efc">4+</characteristic>
+                    <characteristic name="Rend" typeId="f578-d2a5-f0d3-b707">-1</characteristic>
+                    <characteristic name="Damage" typeId="b5b6-4cbd-661d-1b70">1</characteristic>
                   </characteristics>
                 </profile>
-                <profile id="1a33-2d56-85cb-e8dd" name="Steam Gun" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="单位能力">
+                <profile id="1a33-2d56-85cb-e8dd" name="Steam Gun" hidden="false" typeId="c924-5a68-471a-2fd5" typeName="Unit Abilities">
                   <characteristics>
-                    <characteristic name="能力细节" typeId="d4dc-8e81-bc0e-b8f0">When firing a Steam Gun, select a target 单位. You can then make one attack against that 单位 for each model in it that is within range.</characteristic>
+                    <characteristic name="Ability Details" typeId="d4dc-8e81-bc0e-b8f0">When firing a Steam Gun, select a target unit. You can then make one attack against that unit for each model in it that is within range.</characteristic>
                   </characteristics>
                 </profile>
               </profiles>
@@ -1267,11 +1267,11 @@
         <cost name="pts" typeId="points" value="80.0"/>
       </costs>
     </selectionEntry>
-    <selectionEntry id="0d18-3b48-d14a-0b7a" name="阵型: 炮兵 Detachment" hidden="false" collective="false" import="true" type="upgrade">
+    <selectionEntry id="0d18-3b48-d14a-0b7a" name="Battalion: Artillery Detachment" hidden="false" collective="false" import="true" type="upgrade">
       <profiles>
-        <profile id="3f28-f3cc-2f3d-2f73" name="Preliminary Bombardment" hidden="false" typeId="bdc6-78da-3796-60a3" typeName="阵型能力">
+        <profile id="3f28-f3cc-2f3d-2f73" name="Preliminary Bombardment" hidden="false" typeId="bdc6-78da-3796-60a3" typeName="Battalion Abilities">
           <characteristics>
-            <characteristic name="阵型能力细节" typeId="08e0-9ead-1dbe-c801">In your 英雄阶段, pick an enemy 单位 that is visible to either the 阵型&apos;s Gunmaster or Cogsmith.  Then, roll a dice for each 其他 单位 in this 阵型; on a 6 that 单位 can immediately shoot at the nominated enemy 单位 as if it were the 射击阶段.</characteristic>
+            <characteristic name="Battalion Ability Details" typeId="08e0-9ead-1dbe-c801">In your hero phase, pick an enemy unit that is visible to either the battalion&apos;s Gunmaster or Cogsmith.  Then, roll a dice for each other unit in this battalion; on a 6 that unit can immediately shoot at the nominated enemy unit as if it were the shooting phase.</characteristic>
           </characteristics>
         </profile>
       </profiles>
@@ -1315,7 +1315,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="43a5-2c58-598d-9b15" name="1 Gyrobomber 单位" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="43a5-2c58-598d-9b15" name="1 Gyrobomber Unit" hidden="false" collective="false" import="true">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="c242-00d3-8f5e-a898" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="88a2-99ce-2967-88f3" type="max"/>
@@ -1328,7 +1328,7 @@
             </entryLink>
           </entryLinks>
         </selectionEntryGroup>
-        <selectionEntryGroup id="f90b-4667-ef53-7ec2" name="1 Gyrocopter 单位" hidden="false" collective="false" import="true">
+        <selectionEntryGroup id="f90b-4667-ef53-7ec2" name="1 Gyrocopter Unit" hidden="false" collective="false" import="true">
           <constraints>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="be49-a8eb-b60b-d4ec" type="min"/>
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="d66d-5991-77d1-8340" type="max"/>
@@ -1347,7 +1347,7 @@
             <constraint field="selections" scope="parent" value="1.0" percentValue="false" shared="true" includeChildSelections="false" includeChildForces="false" id="ec55-1729-ea71-2b38" type="max"/>
           </constraints>
           <entryLinks>
-            <entryLink id="6d6d-618d-9ae4-b46e" name="Helblaster Volly Gun" hidden="false" collective="false" import="true" targetId="4fca-ba5d-d64c-a20e" type="selectionEntry">
+            <entryLink id="6d6d-618d-9ae4-b46e" name="Helblaster Volley Gun" hidden="false" collective="false" import="true" targetId="4fca-ba5d-d64c-a20e" type="selectionEntry">
               <categoryLinks>
                 <categoryLink id="215b-6c56-df19-6ef9" name="New CategoryLink" hidden="false" targetId="1d26-07fc-6a66-d73e" primary="true"/>
               </categoryLinks>
@@ -1413,7 +1413,7 @@
         <constraint field="selections" scope="roster" value="1.0" percentValue="false" shared="true" includeChildSelections="true" includeChildForces="false" id="34b9-d3dc-999e-3824" type="max"/>
       </constraints>
       <entryLinks>
-        <entryLink id="00d8-5597-ab06-86fb" name="秩序魔法道具" hidden="false" collective="false" import="true" targetId="19d0-4499-b76e-96c1" type="selectionEntryGroup">
+        <entryLink id="00d8-5597-ab06-86fb" name="Artefacts of Order" hidden="false" collective="false" import="true" targetId="19d0-4499-b76e-96c1" type="selectionEntryGroup">
           <modifiers>
             <modifier type="set" field="hidden" value="true">
               <conditions>
